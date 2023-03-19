@@ -1,0 +1,4537 @@
+[
+    {
+        "system_name": "AFINCC-GW.AF.MIL",
+        "organization": "HQ SSC/SSDN\nHQ SSC/SSDN",
+        "location": "Gunter Air Force Base, AL"
+    },
+    {
+        "system_name": "ANNISTON-EMH1.ARMY.MIL",
+        "organization": "Anniston Army Depot\nNetwork Control Facility",
+        "location": "Anniston, AL"
+    },
+    {
+        "system_name": "ANNISTON-GW.ARMY.MIL",
+        "organization": "Army Information Systems Command",
+        "location": "Anniston Army Depot, AL"
+    },
+    {
+        "system_name": "CAMNET-MAXWELL-R01.AF.MIL",
+        "organization": "Maxwell Air Force Base\nAir Force Commissary Detachment\n(AFCOMS) Delta Gulf Region",
+        "location": "Montgomery, AL"
+    },
+    {
+        "system_name": "FTMCCLLN-GW1.ARMY.MIL",
+        "organization": "Director Army Information Systems Command",
+        "location": "Fort Mcclellan, AL"
+    },
+    {
+        "system_name": "FTRUCKER-AMEDD.ARMY.MIL",
+        "organization": "Fort Rucker\nUSAAAMC/HSXY-RMD",
+        "location": "Daleville, AL"
+    },
+    {
+        "system_name": "FTRUCKER-GW.ARMY.MIL",
+        "organization": "Army Information Systems Command",
+        "location": "AL"
+    },
+    {
+        "system_name": "FTRUCKER-JACS6367.ARMY.MIL",
+        "organization": "Fort Rucker\nFinance and Accounting",
+        "location": "Daleville, AL"
+    },
+    {
+        "system_name": "GUNTER-PIV-2.AF.MIL",
+        "organization": "Gunter Air Force Base",
+        "location": "Montgomery, AL"
+    },
+    {
+        "system_name": "GUNTER1-GW.AF.MIL",
+        "organization": "HQ SSC/AQFC",
+        "location": "GUNTER Air Force Base, AL"
+    },
+    {
+        "system_name": "HRC-IRIS.AF.MIL",
+        "organization": "Maxwell Air Force Base",
+        "location": "Montgomery, AL"
+    },
+    {
+        "system_name": "MAXWELL-GW.AF.MIL",
+        "organization": "Maxwell Air Force Base\n1973 Communications Group/LGNC",
+        "location": "Montgomery, AL"
+    },
+    {
+        "system_name": "MCCLELLAN-ASATMS2.ARMY.MIL",
+        "organization": "Fort McClellan\nArmy Information Systems Command (USAISC)",
+        "location": "Anniston, AL"
+    },
+    {
+        "system_name": "REDSTONE-AMEDD.ARMY.MIL",
+        "organization": "Redstone Arsenal\nArmy MEDDAC",
+        "location": "Huntsville, AL"
+    },
+    {
+        "system_name": "REDSTONE-GW1.ARMY.MIL",
+        "organization": "Redstone Arsenal\nArmy Information Systems Command (USAISC)",
+        "location": "Huntsville, AL"
+    },
+    {
+        "system_name": "REDSTONE-GW2.ARMY.MIL",
+        "organization": "Director Army Information Systems Command\n4373",
+        "location": "Redstone Arsenal, AL"
+    },
+    {
+        "system_name": "RUCKER-ASTAMS.ARMY.MIL",
+        "organization": "Fort Rucker",
+        "location": "Daleville, AL"
+    },
+    {
+        "system_name": "RUCKER-EMH2.ARMY.MIL",
+        "organization": "Fort Rucker\nArmy Aeromedical Research Laboratory",
+        "location": "Daleville, AL"
+    },
+    {
+        "system_name": "RUCKER-TCACCIS.ARMY.MIL",
+        "organization": "Fort Rucker\nTransportation Office",
+        "location": "Daleville, AL"
+    },
+    {
+        "system_name": "SERVER.AF.MIL",
+        "organization": "HQ SSC/SSOTF",
+        "location": "Gunter Air Force Base, AL"
+    },
+    {
+        "system_name": "AFPBS-DET8.AF.MIL",
+        "organization": "Elmendorf Air Force Base",
+        "location": "Anchorage, AK"
+    },
+    {
+        "system_name": "DECCO-ALASKA.DISA.MIL",
+        "organization": "Elmendorf Air Force Base\nDefense Commercial Communications Office (DECCO-Alaska)",
+        "location": "Anchorage, AK"
+    },
+    {
+        "system_name": "EIELSON-AM1.AF.MIL",
+        "organization": "Eielson Air Force Base\nAir Force Commissary Detachment 400/FCS\n(AFCOMS)",
+        "location": "Fairbanks, AK"
+    },
+    {
+        "system_name": "EIELSON.MT.DDN.MIL",
+        "organization": "Eielson Air Force Base\n1995 Information Systems Squadron/LGPI",
+        "location": "Fairbanks, AK"
+    },
+    {
+        "system_name": "ELMENDORF.MT.DDN.MIL",
+        "organization": "Elmendorf Air Force Base\nAlascom Patch and Test Facility\n1930 Information Systems Squadron",
+        "location": "Anchorage, AK"
+    },
+    {
+        "system_name": "FTRCRDSN-GW.ARMY.MIL",
+        "organization": "CDR 1117TH SIG BN\nASQP-ACO",
+        "location": "FT Richardson, AK"
+    },
+    {
+        "system_name": "FTRCRDSN-MPRJSS.ARMY.MIL",
+        "organization": "CDRUSAISC\nASQNA-AK-IC",
+        "location": "FT. Richardson, AK"
+    },
+    {
+        "system_name": "FTWNWGHT-GW.ARMY.MIL",
+        "organization": "CDR 1117TH SIG BN",
+        "location": "FT Wainwright, AK"
+    },
+    {
+        "system_name": "FTWNWGHT-MPRJSS.ARMY.MIL",
+        "organization": "CDRUSAISC\nASQNA-WIS",
+        "location": "FT. Wainwright, AK"
+    },
+    {
+        "system_name": "GREELY-GW1.ARMY.MIL",
+        "organization": "USAISC-GREELY",
+        "location": "Fort Greely, AK"
+    },
+    {
+        "system_name": "AMDIS01-GW.AF.MIL",
+        "organization": "Davis-Monthan Air Force Base",
+        "location": "Tuscon, AZ"
+    },
+    {
+        "system_name": "DAVISMONTHAN-GW.AF.MIL",
+        "organization": "Davis Monthan Air Force Base\n1930th Communications Squadron (CS/XPP)",
+        "location": "Tucson, AZ"
+    },
+    {
+        "system_name": "EDCARS-AM.AF.MIL",
+        "organization": "Davis Monthan Air Force Base\nHeadquarters AMARC/SIB",
+        "location": "Tucson, AZ"
+    },
+    {
+        "system_name": "FTHUACH-AMEDD.ARMY.MIL",
+        "organization": "Fort Huachuca\nArmy MEDDAC",
+        "location": "Sierra Vista, AZ"
+    },
+    {
+        "system_name": "HUACHUCA-EMH3.ARMY.MIL",
+        "organization": "Fort Huachuca\nUSACEC",
+        "location": "Sierra Vista, AZ"
+    },
+    {
+        "system_name": "HUACHUCA-EMH6.ARMY.MIL",
+        "organization": "Fort Huachuca\nArmy Information Systems Command (USAISC)",
+        "location": "Sierra Vista, AZ"
+    },
+    {
+        "system_name": "HUACHUCA-GW.ARMY.MIL",
+        "organization": "Fort Huachuca\nU.S. Army Computer Engineering Center",
+        "location": "Ft. Huachuca, AZ"
+    },
+    {
+        "system_name": "HUACHUCA-GW2.ARMY.MIL",
+        "organization": "Director\nArmy Information Systems Command",
+        "location": "Fort Huachuca, AZ"
+    },
+    {
+        "system_name": "HUACHUCA-GW4.ARMY.MIL",
+        "organization": "DIR USAISC\nASQB-IHS-A",
+        "location": "AZ"
+    },
+    {
+        "system_name": "JITC.DISA.MIL",
+        "organization": "DIRJITC-JTC3A",
+        "location": "Fort Huachuca, AZ"
+    },
+    {
+        "system_name": "LUKE-GW.AF.MIL",
+        "organization": "Luke Air Force Base",
+        "location": "Glendale, AZ"
+    },
+    {
+        "system_name": "WILLIAMS-GW.AF.MIL",
+        "organization": "Williams Air Force Base\n1922 Communications Squadron/DOU",
+        "location": "Chandler, AZ"
+    },
+    {
+        "system_name": "YUMA-GW.ARMY.MIL",
+        "organization": "Yuma Proving Ground\nUSAYPG/ASNC-TYU-RD",
+        "location": "Yuma, AZ"
+    },
+    {
+        "system_name": "CHAFFE-TCACCIS.ARMY.MIL",
+        "organization": "Fort Chaffee",
+        "location": "Fort Smith, AR"
+    },
+    {
+        "system_name": "EAKER-GW.AF.MIL",
+        "organization": "Eaker Air Force Base\n2101 Communications Squadron/XP",
+        "location": "Blytheville, AR"
+    },
+    {
+        "system_name": "LITTLRCK-AM1.AF.MIL",
+        "organization": "Little Rock Air Force Base\n314th Communications Systems Group (CSG/DEI)",
+        "location": "Jacksonville, AR"
+    },
+    {
+        "system_name": "PINEBLFF-GW1.ARMY.MIL",
+        "organization": "DIRUSAISC",
+        "location": "AR"
+    },
+    {
+        "system_name": "NCPDS-HOLT.NAVY.MIL",
+        "organization": "H.E. Holt Air Station",
+        "location": "AUSTRALIA"
+    },
+    {
+        "system_name": "CHIEVRES-ASIMS.ARMY.MIL",
+        "organization": "Daumerie Kaserne\nHHD 39th Signal Battlion",
+        "location": "BELGIUM"
+    },
+    {
+        "system_name": "FLORENNES-AMI.AF.MIL",
+        "organization": "Florennes Air Base\n485th Communications Systems Group\nAir Force Commissary (AFCOMS) Detachment",
+        "location": "BELGIUM"
+    },
+    {
+        "system_name": "SHAPE-MEPRS.ARMY.MIL",
+        "organization": "CDRUSAMEDDAC/AEMSH-IMO",
+        "location": "BELGIUM"
+    },
+    {
+        "system_name": "NCPDS-BERMUDA.NAVY.MIL",
+        "organization": "Naval Air Station\nCivilian Personnel Office",
+        "location": "BERMUDA"
+    },
+    {
+        "system_name": "AFAL-EDWARDS.AF.MIL",
+        "organization": "Edwards Air Force Base",
+        "location": "Rosamond, CA"
+    },
+    {
+        "system_name": "ALAMEDA.MT.DDN.MIL",
+        "organization": "Alameda Naval Air Station\nNavy Regional Data Automation Center (NARDAC)",
+        "location": "Alameda, CA"
+    },
+    {
+        "system_name": "AMES-IP.DDN.MIL",
+        "organization": "NASA AMES RESEARCH CENTER ED",
+        "location": "Moffett Field, CA"
+    },
+    {
+        "system_name": "APDS-II-KUNSAN.AF.MIL",
+        "organization": "8MSSQ/MSPD",
+        "location": "Moffett Field, CA"
+    },
+    {
+        "system_name": "BEALE-GW.AF.MIL",
+        "organization": "Beale Air Force Base\n1883rd Communications Squadron/DO",
+        "location": "Marysville, CA"
+    },
+    {
+        "system_name": "C.NAVY.MIL",
+        "organization": "Fleet Analysis Center",
+        "location": "Corona, CA"
+    },
+    {
+        "system_name": "CASTLE-GW.AF.MIL",
+        "organization": "Castle Air Force Base\n93CS/SCO",
+        "location": "Atwater, CA"
+    },
+    {
+        "system_name": "CILPAC.ARMY.MIL",
+        "organization": "USACIL-Pacific",
+        "location": "APO San Francisco, CA"
+    },
+    {
+        "system_name": "CONCORD-GW.NAVY.MIL",
+        "organization": "Concord Naval Weapons Station",
+        "location": "Concord, CA"
+    },
+    {
+        "system_name": "CORONA-PAD4.NAVY.MIL",
+        "organization": "NAVELEX",
+        "location": "San Diego, CA"
+    },
+    {
+        "system_name": "CPROBRTS-ASBN.ARMY.MIL",
+        "organization": "HQ\nCACR-DPTM-CS",
+        "location": "CA"
+    },
+    {
+        "system_name": "DISG-SM-GW.AF.MIL",
+        "organization": "McClellan Air Force Base\nSM-ALC/SCSE",
+        "location": "Sacramento, CA"
+    },
+    {
+        "system_name": "EDCARS-MCCLELLAN.AF.MIL",
+        "organization": "McClellan Air Force Base",
+        "location": "Sacramento, CA"
+    },
+    {
+        "system_name": "EDWARDS.MT.DDN.MIL",
+        "organization": "Edwards Air Force Base",
+        "location": "Edwards, CA"
+    },
+    {
+        "system_name": "EL-SEGUNDO.MT.DDN.MIL",
+        "organization": "Los Angeles Air Force Base",
+        "location": "El Segundo, CA"
+    },
+    {
+        "system_name": "EL-TORO.OGDEN.DRMS.DLA.MIL",
+        "organization": "Defense Reutilization and Marketing Office\nAdministration Office",
+        "location": "East Irvine, CA"
+    },
+    {
+        "system_name": "FTIRWIN-AMEDD.ARMY.MIL",
+        "organization": "Fort Irwin\nArmy MEDDAC",
+        "location": "Fort Irwin, CA"
+    },
+    {
+        "system_name": "FTIRWIN-GW1.ARMY.MIL",
+        "organization": "Commander\nArmy Information Systems Center",
+        "location": "Fort Irwin, CA"
+    },
+    {
+        "system_name": "FTIRWIN-IGNET.ARMY.MIL",
+        "organization": "Fort Irwin\nCDRIG",
+        "location": "Fort Irwin, CA"
+    },
+    {
+        "system_name": "FTORD-GW1.ARMY.MIL",
+        "organization": "Army Information Systems Command",
+        "location": "Fort Ord, CA"
+    },
+    {
+        "system_name": "FTORD-GW1.ARMY.MIL",
+        "organization": "Army Information Systems Command",
+        "location": "Fort Ord, CA"
+    },
+    {
+        "system_name": "GEORGE-GW.AF.MIL",
+        "organization": "George Air Force\n2067 Communications Squadron/XP",
+        "location": "Victorville, CA"
+    },
+    {
+        "system_name": "GUAM.PACIFIC.DRMS.DLA.MIL",
+        "organization": "DEFENSE REUTILIZATION AND MARKETING OFFICE",
+        "location": "CA"
+    },
+    {
+        "system_name": "GW.DAAST.DLA.MIL",
+        "organization": "Defense Automatic Addressing System Office (DAASO)",
+        "location": "Tracy, CA"
+    },
+    {
+        "system_name": "GW.DCRL.DLA.MIL",
+        "organization": "Defense Contract Administration Service Region (DCASR)",
+        "location": "El Segundo, CA"
+    },
+    {
+        "system_name": "HCGUA1-GW.NAVY.MIL",
+        "organization": "NAVCAMS WESTPAC GUAM\n112/1ST FL\nFinegayan\nGuam",
+        "location": "FPO San Francisco, CA"
+    },
+    {
+        "system_name": "HENRY-GW.ARMY.MIL",
+        "organization": "293RD SIGNAL CO IPF",
+        "location": "CA"
+    },
+    {
+        "system_name": "IRWIN-EMH1.ARMY.MIL",
+        "organization": "Fort Irwin\nArmy Information Systems Command (USAISC)",
+        "location": "Barstow, CA"
+    },
+    {
+        "system_name": "KURE-GW1.ARMY.MIL",
+        "organization": "Commander 1141st Signal Battlion",
+        "location": "APO San  Francisco, CA"
+    },
+    {
+        "system_name": "LEMOORE-BUMED.NAVY.MIL",
+        "organization": "Lemoore Naval Hospital",
+        "location": "Lemoore, CA"
+    },
+    {
+        "system_name": "LOSANGELES-GW.AF.MIL",
+        "organization": "Los Angeles Air Force Base",
+        "location": "Los Angeles, CA"
+    },
+    {
+        "system_name": "LPA024.NAVY.MIL",
+        "organization": "NAVCALAB",
+        "location": "CA"
+    },
+    {
+        "system_name": "LPA153.NAVY.MIL",
+        "organization": "NAVCALAB\nVAN 6",
+        "location": "CA"
+    },
+    {
+        "system_name": "MARCH.MMT.DDN.MIL",
+        "organization": "HQ BMO/SCS",
+        "location": "CA"
+    },
+    {
+        "system_name": "MARINA-DEL-REY-MB.DDN.MIL",
+        "organization": "Information Science Institute\nSuite 1000\n4676 Admiralty Way",
+        "location": "Marina Del Rey, CA"
+    },
+    {
+        "system_name": "MCCLELLAN-GW.AF.MIL",
+        "organization": "McClellan Air Force Base\n2049 Communications Group/LGUH",
+        "location": "Sacramento, CA"
+    },
+    {
+        "system_name": "MCCLELLAN2.MT.DDN.MIL",
+        "organization": "McClellan Air Force Base\nSacramento Air Logistics Command\n2049 Communications Group/XRP",
+        "location": "Sacramento, CA"
+    },
+    {
+        "system_name": "MOCCW.NAVY.MIL",
+        "organization": "North Island Naval Air Station\nMeasure Operational Control Center West",
+        "location": "San Diego, CA"
+    },
+    {
+        "system_name": "MOFFETT.MT.DDN.MIL",
+        "organization": "Moffett Field Air Strip",
+        "location": "Mountain View, CA"
+    },
+    {
+        "system_name": "MOFNAF.NAVY.MIL",
+        "organization": "Moffett Field Naval Air Station\nNavy Data Automation Facility (NAVDAF)",
+        "location": "Mountain View, CA"
+    },
+    {
+        "system_name": "MONTEREY2.MT.DDN.MIL",
+        "organization": "Naval Postgraduate School Annex\nFleet Numerical Oceanography Center",
+        "location": "Livermore, CA"
+    },
+    {
+        "system_name": "MUGU-GW.NAVY.MIL",
+        "organization": "PACIFIC MISSILE TEST CENTER",
+        "location": "CA"
+    },
+    {
+        "system_name": "NADEPNI.NAVY.MIL",
+        "organization": "Navavndepot North Island\nCode 21310",
+        "location": "Moffett Field, CA"
+    },
+    {
+        "system_name": "NETPMSA-SANDIEGO1.NAVY.MIL",
+        "organization": "Naval Education and Training Program Management Support (NETPMSA)",
+        "location": "San Diego, CA"
+    },
+    {
+        "system_name": "NETPMSA-TREAS1.NAVY.MIL",
+        "organization": "Treasure Island\nNaval Education and Training Program Management Support Activity\n(NETPMSA)",
+        "location": "San Francisco, CA"
+    },
+    {
+        "system_name": "NETPMSA-VALLEJ01.NAVY.MIL",
+        "organization": "Mare Island Naval Shipyard\nCombat Systems Technical School Command",
+        "location": "Vallejo, CA"
+    },
+    {
+        "system_name": "NOCC.NAVY.MIL",
+        "organization": "Naval Oceanography Command Center Guam",
+        "location": "APO San Francisco, CA"
+    },
+    {
+        "system_name": "NORTHDOCK-GW1.ARMY.MIL",
+        "organization": "Commander\n1141st Signal Battlion\nS-201",
+        "location": "APO San  Francisco, CA"
+    },
+    {
+        "system_name": "NORTON-GW.AF.MIL",
+        "organization": "Norton Air Force Base\n1965th Communications Squadron (CS/DOA)",
+        "location": "San Bernardino, CA"
+    },
+    {
+        "system_name": "NOSC-GW.NOSC.MIL",
+        "organization": "Naval Ocean Systems Center (NOSC)",
+        "location": "San Diego, CA"
+    },
+    {
+        "system_name": "NPRDC.NAVY.MIL",
+        "organization": "Naval Personnel Research and Development Center",
+        "location": "San Diego, CA"
+    },
+    {
+        "system_name": "NSWSES-GW.NSWSES.NAVY.MIL",
+        "organization": "Port Hueneme\nNaval Ship Weapon Systems Engineering Station",
+        "location": "Oxnard, CA"
+    },
+    {
+        "system_name": "NUWES-SD.NAVY.MIL",
+        "organization": "Naval Undersea Warfare Engineering Station (NUWES)",
+        "location": "San Diego, CA"
+    },
+    {
+        "system_name": "OAKLAND-BUMED.NAVY.MIL",
+        "organization": "Naval Hospital",
+        "location": "Oakland, CA"
+    },
+    {
+        "system_name": "OAKLAND-GW1.ARMY.MIL",
+        "organization": "USAISC-WA",
+        "location": "CA"
+    },
+    {
+        "system_name": "OAKLAND-TCACCIS.ARMY.MIL",
+        "organization": "AISCA-WA",
+        "location": "Oakland, CA"
+    },
+    {
+        "system_name": "OAKNSC.NAVY.MIL",
+        "organization": "Navy Supply Center",
+        "location": "Oakland, CA"
+    },
+    {
+        "system_name": "ONIZUKA-GW.AF.MIL",
+        "organization": "1999CS/DOY",
+        "location": "Sunnyvale, CA"
+    },
+    {
+        "system_name": "ORD.MT.DDN.MIL",
+        "organization": "Fort Ord\nArmy Information Systems Command (USAISC)",
+        "location": "Monterey, CA"
+    },
+    {
+        "system_name": "PERA-CSS.NAVY.MIL",
+        "organization": "Hunters Point Naval Shipyard\nNaval Sea Systems Command-Detachment PERACSS",
+        "location": "San Francisco, CA"
+    },
+    {
+        "system_name": "PRESIDIO-ACIRS.ARMY.MIL",
+        "organization": "CDRUSAISC-CIDC\n6th Region",
+        "location": "Presidio of San Francisco, CA"
+    },
+    {
+        "system_name": "PRESIDIO.MT.DDN.MIL",
+        "organization": "Presidio of San Francisco",
+        "location": "San Francisco, CA"
+    },
+    {
+        "system_name": "PSDOFMNT-IGNET.ARMY.MIL",
+        "organization": "Defense Language Institute",
+        "location": "Presidio of Monterey, CA"
+    },
+    {
+        "system_name": "PSDSNFNC-GW1.ARMY.MIL",
+        "organization": "DIRUSAISC\nASQNA-PSF-L",
+        "location": "Presido Of San Francisco, CA"
+    },
+    {
+        "system_name": "PSDSNFNC-GW1.ARMY.MIL",
+        "organization": "DIRUSAISC\nASQNA-PSF-L",
+        "location": "Presido Of San Francisco, CA"
+    },
+    {
+        "system_name": "ROBERTS-EMH1.ARMY.MIL",
+        "organization": "Camp Roberts\nArmy Information Systems Command (USAISC)",
+        "location": "Camp Roberts, CA"
+    },
+    {
+        "system_name": "RPA03.NAVY.MIL",
+        "organization": "PACIFIC MISSILE TEST CENTER",
+        "location": "CA"
+    },
+    {
+        "system_name": "RPA07.NAVY.MIL",
+        "organization": "NAVCALAB",
+        "location": "FPO San Francisco, CA"
+    },
+    {
+        "system_name": "SAAD-GW.ARMY.MIL",
+        "organization": "Sacramento Army Depot",
+        "location": "Sacramento, CA"
+    },
+    {
+        "system_name": "SAGAMI-GW1.ARMY.MIL",
+        "organization": "Commander\n1141st Signal Battalion",
+        "location": "APO San Francisco, CA"
+    },
+    {
+        "system_name": "SAN-FRANCI-ASIMS.ARMY.MIL",
+        "organization": "Presidio of San Francisco\nArmy Information Systems Command (USAISC)",
+        "location": "San Francisco, CA"
+    },
+    {
+        "system_name": "SANDIEGO-BUMED.NAVY.MIL",
+        "organization": "Naval Hospital MIS Department",
+        "location": "San Diego, CA"
+    },
+    {
+        "system_name": "SANDIEGO2.MT.DDN.MIL",
+        "organization": "Naval Ocean Systems Center (NOSC)\nAdvanced Command Architectural\nTest Bed Edatl",
+        "location": "San Diego, CA"
+    },
+    {
+        "system_name": "SD1-GW.NAVY.MIL",
+        "organization": "North Island Naval Air Station\nNavy Regional Data Automation Center (NARDAC)",
+        "location": "San Diego, CA"
+    },
+    {
+        "system_name": "SDS-SANDGOA.NAVY.MIL",
+        "organization": "North Island Naval Air Station\nNavy Regional Data Automation Center (NARDAC)",
+        "location": "San Diego, CA"
+    },
+    {
+        "system_name": "SDS-SANDGOE.NAVY.MIL",
+        "organization": "North Island Naval Air Station\nNavy Regional Data Automation Center (NARDAC) San Diego",
+        "location": "San Diego, CA"
+    },
+    {
+        "system_name": "SEOUL-ACIRS.ARMY.MIL",
+        "organization": "7th Region Army Information Systems Command",
+        "location": "APO San Francisco, CA"
+    },
+    {
+        "system_name": "SEOUL-GW1.ARMY.MIL",
+        "organization": "Comador 201st Signal Company AMME/ASK-E1-AM",
+        "location": "APO San Francisco, CA"
+    },
+    {
+        "system_name": "SHARPE-EMH1.ARMY.MIL",
+        "organization": "Sharpe Army Depot",
+        "location": "Lathrop, CA"
+    },
+    {
+        "system_name": "SIERRA-EMH.ARMY.MIL",
+        "organization": "USAISC-DI-RP",
+        "location": "CA"
+    },
+    {
+        "system_name": "SNAG-SM.AF.MIL",
+        "organization": "McClellan Air Force Base",
+        "location": "Sacramento, CA"
+    },
+    {
+        "system_name": "SNDNDC.NAVY.MIL",
+        "organization": "North Island Naval Air Station\nNavy Regional Data Automation Center (NARDAC)",
+        "location": "San Diego, CA"
+    },
+    {
+        "system_name": "SNFNDC.NAVY.MIL",
+        "organization": "Alameda Naval Air Station\nNavy Regional Data Automation Center (NARDAC)",
+        "location": "Alameda, CA"
+    },
+    {
+        "system_name": "SSD-GW.AF.MIL",
+        "organization": "SSD/SCSN\n2400 East El Segundo Boulevard",
+        "location": "El Segundo, CA"
+    },
+    {
+        "system_name": "STOCKTON.DIPEC.DLA.MIL",
+        "organization": "Stockton Naval Communications Station\nRough and Ready Island\nDefense Industrial Plant Equipment Center",
+        "location": "Stockton, CA"
+    },
+    {
+        "system_name": "SUNVALLEY-ONET.ARMY.MIL",
+        "organization": "AFRTS BC",
+        "location": "Sun Valley, CA"
+    },
+    {
+        "system_name": "TRAVIS-GW.AF.MIL",
+        "organization": "Travis Air Force Base\n60CG/DONA",
+        "location": "Fairfield, CA"
+    },
+    {
+        "system_name": "VALLEJO1.NAVY.MIL",
+        "organization": "Mare Island Naval Shipyard\nNavy Electronics Systems Engineering Center",
+        "location": "Vallejo, CA"
+    },
+    {
+        "system_name": "WALKER-GW1.ARMY.MIL",
+        "organization": "Commander\n169th Signal CO/ASQK-DB-DDN",
+        "location": "APO San Francisco, CA"
+    },
+    {
+        "system_name": "WERAAA.ARMY.MIL",
+        "organization": "Regional Auditor General\nSuite 1",
+        "location": "Westlake Village, CA"
+    },
+    {
+        "system_name": "ZAMA-GW1.ARMY.MIL",
+        "organization": "Commander\n1104th SIG BDE",
+        "location": "San Francisco, CA"
+    },
+    {
+        "system_name": "ACADEMY-GW.AF.MIL",
+        "organization": "Air Force Academy (USAFA-VAS)",
+        "location": "USAF Academy, CO"
+    },
+    {
+        "system_name": "CARSON-ASBN.ARMY.MIL",
+        "organization": "Fort Carson Army Garrison",
+        "location": "Colorado Springs, CO"
+    },
+    {
+        "system_name": "CSOCNET-1-GW.AF.MIL",
+        "organization": "Falcon Air Force Station",
+        "location": "Colorado Springs, CO"
+    },
+    {
+        "system_name": "DENVER.MT.DDN.MIL",
+        "organization": "Fitzsimmons Army Medical Center",
+        "location": "Aurora, CO"
+    },
+    {
+        "system_name": "FITZSIMMON-ASIMS.ARMY.MIL",
+        "organization": "Fitzsimmons Army Medical Center",
+        "location": "Aurora, CO"
+    },
+    {
+        "system_name": "FTCARSON-GW1.ARMY.MIL",
+        "organization": "CDRUSAISC DET",
+        "location": "FT. Carson, CO"
+    },
+    {
+        "system_name": "FTZSMMNS-AMEDD.ARMY.MIL",
+        "organization": "Fitzsimmons Army Medical Center\nFitzsimons Army Medical Center\nDirectorate of Information Management",
+        "location": "Aurora, CO"
+    },
+    {
+        "system_name": "LOWRY-GW.AF.MIL",
+        "organization": "Lowry Air Force Base",
+        "location": "Denver, CO"
+    },
+    {
+        "system_name": "LOWRY2.MT.DDN.MIL",
+        "organization": "Lowry Air Force Base\nAccounting and Finance Center",
+        "location": "Denver, CO"
+    },
+    {
+        "system_name": "PETERSON.MT.DDN.MIL",
+        "organization": "Peterson Air Force Base\nSpace Communications Group",
+        "location": "Colorado Springs, CO"
+    },
+    {
+        "system_name": "USAFACDM-AM1.AF.MIL",
+        "organization": "Air Force Academy",
+        "location": "USAF Academy, CO"
+    },
+    {
+        "system_name": "CNET-NELWOO13.NAVY.MIL",
+        "organization": "Naval Submarine School",
+        "location": "Groton, CT"
+    },
+    {
+        "system_name": "HARTFORD-GW.ARMY.MIL",
+        "organization": "USPFO",
+        "location": "Hartford, CT"
+    },
+    {
+        "system_name": "NL.NUSC.NAVY.MIL",
+        "organization": "Naval Underwater Systems Center - NUSC\nNetwork Architecture Division\nCode 73",
+        "location": "New London, CT"
+    },
+    {
+        "system_name": "GUANTANAMO-BUMED.NAVY.MIL",
+        "organization": "Naval Hospital Guantanamo Bay",
+        "location": "CUBA"
+    },
+    {
+        "system_name": "DOVER-AM2.AF.MIL",
+        "organization": "Dover Air Force Base\nAir Force Commissary Detachment 306/FCS\n(AFCOMS)",
+        "location": "Dover, DE"
+    },
+    {
+        "system_name": "DOVER-GW.AF.MIL",
+        "organization": "2016CS/XP",
+        "location": "Dover Air Force Base, DE"
+    },
+    {
+        "system_name": "BOLLING-GW.AF.MIL",
+        "organization": "Bolling Air Force Base\n1802nd Communications Squadron (CS/XP)",
+        "location": "Washington, DC"
+    },
+    {
+        "system_name": "CMMC.DDN.MIL",
+        "organization": "Defense Information Systems Agency\nOperations Center\n8th and South Courthouse Road",
+        "location": "Washington, DC"
+    },
+    {
+        "system_name": "DCAOC.MT.DDN.MIL",
+        "organization": "Defense Information Systems Agency (DISA)\nOperations Center\nCode N210.3",
+        "location": "Washington, DC"
+    },
+    {
+        "system_name": "DDN2-GW.NRL.NAVY.MIL",
+        "organization": "Naval Research Laboratory - NRL",
+        "location": "Washington, DC"
+    },
+    {
+        "system_name": "DNS.NCTSW.NAVY.MIL",
+        "organization": "Washington Navy Yard\nNavy Regional Data Automation Center (NARDAC)",
+        "location": "Washington, DC"
+    },
+    {
+        "system_name": "HQDALO-ASATMS.ARMY.MIL",
+        "organization": "The Pentagon\nArmy Information Systems Command (USAISC)",
+        "location": "Washington, DC"
+    },
+    {
+        "system_name": "NARDAC-WASHINGTON.NAVY.MIL",
+        "organization": "Washington Navy Yard\nNavy Regional Data Automation Center (NARDAC)",
+        "location": "Washington, DC"
+    },
+    {
+        "system_name": "NAVELEXNET-CHASN.NAVY.MIL",
+        "organization": "CONUS Milnet\nDefense Communications Agency Operations Center (DCAOC)",
+        "location": "Washington, DC"
+    },
+    {
+        "system_name": "NAVYYARD-ONET.NAVY.MIL",
+        "organization": "Washington Navy Yard\nNavy Regional Data Automation Center (NARDAC)",
+        "location": "Washington, DC"
+    },
+    {
+        "system_name": "NCTS-GW4.NAVY.MIL",
+        "organization": "Navy Computer and Telecommunication Station\nCode N241",
+        "location": "Washington, DC"
+    },
+    {
+        "system_name": "NCTSW-GW5.NAVY.MIL",
+        "organization": "Navy Computer and Telecommunication Station (NCTS)\nCode N241",
+        "location": "Washington, DC"
+    },
+    {
+        "system_name": "NFE.NRL.NAVY.MIL",
+        "organization": "Naval Research Laboratory - NRL\nCode 2852",
+        "location": "Washington, DC"
+    },
+    {
+        "system_name": "NISNET-1.NAVY.MIL",
+        "organization": "Washington Naval Yard\nNaval Investigative Service",
+        "location": "Washington, DC"
+    },
+    {
+        "system_name": "OSI-GW.DISA.MIL",
+        "organization": "Washington Navy Yard\nNavy Regional Data Automation Center (NARDAC)\nNavy OSI Laboratory",
+        "location": "Washington, DC"
+    },
+    {
+        "system_name": "PENT-GW.HQ.AF.MIL",
+        "organization": "The Pentagon",
+        "location": "Washington, DC"
+    },
+    {
+        "system_name": "PENTAGON-BCN-GW.ARMY.MIL",
+        "organization": "The Pentagon\nArmy Information Systems Command (USAISC)",
+        "location": "Washington, DC"
+    },
+    {
+        "system_name": "PENTAGON-EMH4.ARMY.MIL",
+        "organization": "The Pentagon",
+        "location": "Washington, DC"
+    },
+    {
+        "system_name": "PENTAGON-GW.ARMY.MIL",
+        "organization": "The Pentagon\nArmy Artificial Intelligence Center",
+        "location": "Washington, DC"
+    },
+    {
+        "system_name": "PENTAGON-GW1.ARMY.MIL",
+        "organization": "Director\nArmy Information Systems Command",
+        "location": "Washington, DC"
+    },
+    {
+        "system_name": "PENTAGON.MT.DDN.MIL",
+        "organization": "The Pentagon\nAir Force Teleprocessing Services Center",
+        "location": "Washington, DC"
+    },
+    {
+        "system_name": "RAA51.NAVY.MIL",
+        "organization": "NAVPRIMSTDEPT EAST",
+        "location": "Washington, DC"
+    },
+    {
+        "system_name": "SDS-CDA2.NAVY.MIL",
+        "organization": "Washington Navy Yard\nNavy Regional Data Automation Center (NARDAC)",
+        "location": "Washington, DC"
+    },
+    {
+        "system_name": "USNOTS-GW.NAVY.MIL",
+        "organization": "US NAVAL OBSERVATORY",
+        "location": "DC"
+    },
+    {
+        "system_name": "WASHNGTN-AMEDD.ARMY.MIL",
+        "organization": "Army Information Systems Command (USAISC)",
+        "location": "Washington, DC"
+    },
+    {
+        "system_name": "WNYOSI2.NCTSW.NAVY.MIL",
+        "organization": "Washington Navy Yard\nNavy Regional Data Automation Center (NARDACDC002)",
+        "location": "Washington, DC"
+    },
+    {
+        "system_name": "WNYOSI7.NCTSW.NAVY.MIL",
+        "organization": "Washington Navy Yard\nNaval Computer and Telecommunication Station Washington",
+        "location": "Washington, DC"
+    },
+    {
+        "system_name": "WRAIR-EMH1.ARMY.MIL",
+        "organization": "Walter Reed Army Institute of Research\n6825 16th Street\nNW",
+        "location": "Washington, DC"
+    },
+    {
+        "system_name": "AVONPARK-AM1.AF.MIL",
+        "organization": "Avon Park Bombing Range\nAir Force Commissary Detachment OL ID/FCS\n(AFCOMS)",
+        "location": "Avon Park, FL"
+    },
+    {
+        "system_name": "CNET-ORLW0004.NAVY.MIL",
+        "organization": "Orlando Naval Training Center\nNaval Education and Training Program Management Support Activity\n(NETPMSA)",
+        "location": "Orlando, FL"
+    },
+    {
+        "system_name": "CNET-PENW0007.NAVY.MIL",
+        "organization": "Chief of Naval Education and Training",
+        "location": "Pensacola, FL"
+    },
+    {
+        "system_name": "CPBLNDNG-ASBN.ARMY.MIL",
+        "organization": "HQ IN SUPPORT UNIT\nFL NG\nCB-DOTMS",
+        "location": "Camp Blanding, FL"
+    },
+    {
+        "system_name": "EGLIN.MT.DDN.MIL",
+        "organization": "Eglin Air Force Base\nAir Force Systems Command Armament Division",
+        "location": "Fort Walton Beach, FL"
+    },
+    {
+        "system_name": "FTCLAYTNPM-GW1.ARMY.MIL",
+        "organization": "Commander\n1109th Signal Battalion",
+        "location": "APO Miami, FL"
+    },
+    {
+        "system_name": "FTLAUDERDALE.NSWC.NAVY.MIL",
+        "organization": "Naval Surface Warfare Center",
+        "location": "Fort Lauderdale, FL"
+    },
+    {
+        "system_name": "HCJC1-GW.NAVY.MIL",
+        "organization": "Jacksonville Naval Air Station\nNavy Regional Data Automation Center",
+        "location": "Jacksonville, FL"
+    },
+    {
+        "system_name": "HOMESTEAD-GW.AF.MIL",
+        "organization": "Homestead Air Force Base\n1942 Communications Squadron (CS/XP)",
+        "location": "Homestead, FL"
+    },
+    {
+        "system_name": "HOMESTED-AM1.AF.MIL",
+        "organization": "Homestead Air Force Base\n31rst Communications Systems Group (CSG/DEI)",
+        "location": "Homestead, FL"
+    },
+    {
+        "system_name": "JACKSONVILLE.MT.DDN.MIL",
+        "organization": "Jacksonville Naval Air Station",
+        "location": "Jacksonville, FL"
+    },
+    {
+        "system_name": "JAXNDC.NAVY.MIL",
+        "organization": "Jacksonville Naval Air Station\nNaval Computer and Telecommunication Station",
+        "location": "Jacksonville, FL"
+    },
+    {
+        "system_name": "MACDILL-GW.AF.MIL",
+        "organization": "MacDill Air Force Base\n1928th Communications Group/LGU",
+        "location": "Tampa, FL"
+    },
+    {
+        "system_name": "NARDAC-PEN.NAVY.MIL",
+        "organization": "Pensacola Naval Air Station\nNavy Regional Data Automation Center (NARDAC)",
+        "location": "Pensacola, FL"
+    },
+    {
+        "system_name": "NCSC-GW.NCSC.NAVY.MIL",
+        "organization": "Naval Coastal Systems Center",
+        "location": "Mayport, FL"
+    },
+    {
+        "system_name": "NTSC-PEN-GW.NAVY.MIL",
+        "organization": "Saufley Field\nNaval Training Systems Center\nPensacola Field Engineering Division",
+        "location": "Pensacola, FL"
+    },
+    {
+        "system_name": "ORLANDO-BUMED.NAVY.MIL",
+        "organization": "Orlando Navy Hospital\nMIS Department",
+        "location": "Orlando, FL"
+    },
+    {
+        "system_name": "ORLANDO.MT.DDN.MIL",
+        "organization": "Herndon Annex Naval Training Systems Center",
+        "location": "Orlando, FL"
+    },
+    {
+        "system_name": "PATRICK-GW.AF.MIL",
+        "organization": "Patrick Air Force Base\n2179 Communications Group/XPC",
+        "location": "Cocoa Beach, FL"
+    },
+    {
+        "system_name": "PENNDC.NAVY.MIL",
+        "organization": "Pensacola Naval Air Station\nNavy Regional Data Automation Center (NARDAC)",
+        "location": "Pensacola, FL"
+    },
+    {
+        "system_name": "PENSACOLA-GW1.NAVY.MIL",
+        "organization": "Pensacola Naval Air Station\nNavy Regional Data Automation Center (NARDAC)",
+        "location": "Pensacola, FL"
+    },
+    {
+        "system_name": "PSNTESTBED-900-GW.NAVY.MIL",
+        "organization": "Pensacola Naval Air Station\nNavy Regional Data Automation Center (NARDAC)",
+        "location": "Pensacola, FL"
+    },
+    {
+        "system_name": "RAA14.NAVY.MIL",
+        "organization": "Naval Aviation Depot Operations Center",
+        "location": "Jacksonville, FL"
+    },
+    {
+        "system_name": "SDS-CHARLSA.NAVY.MIL",
+        "organization": "Naval Computer and Telecommunication Station (NCTS)",
+        "location": "Jacksonville, FL"
+    },
+    {
+        "system_name": "SDS-PENSCOA.NAVY.MIL",
+        "organization": "Pensacola Naval Air Station\nNavy Regional Data Automation Center (NARDAC)",
+        "location": "Pensacola, FL"
+    },
+    {
+        "system_name": "STATIS-1.NAVY.MIL",
+        "organization": "NETSAFA",
+        "location": "Palm Bay, FL"
+    },
+    {
+        "system_name": "TYNDALL1-GW1.AF.MIL",
+        "organization": "325CS/PG\n2021 Communications Station",
+        "location": "Panama City, FL"
+    },
+    {
+        "system_name": "AFLC-WR-AISG1.AF.MIL",
+        "organization": "Robins Air Force Base",
+        "location": "Warner Robins, GA"
+    },
+    {
+        "system_name": "AUGUSTAGA-ASBN.ARMY.MIL",
+        "organization": "Fort Gordon\nArmy Information Systems Command (USAISC)",
+        "location": "Augusta, GA"
+    },
+    {
+        "system_name": "BENNING-ASBN.ARMY.MIL",
+        "organization": "Fort Benning",
+        "location": "Fort Benning, GA"
+    },
+    {
+        "system_name": "BENNING.MT.DDN.MIL",
+        "organization": "Fort Benning\nArmy Information Systems Command (USAISC)",
+        "location": "Columbus, GA"
+    },
+    {
+        "system_name": "DOBBINS-GW.AF.MIL",
+        "organization": "Dobbins Air Force Base\n2157th Communications Squadron (CS/XP)",
+        "location": "Marietta, GA"
+    },
+    {
+        "system_name": "EDCARS-WR.AF.MIL",
+        "organization": "Robins Air Force Base",
+        "location": "Warner Robins, GA"
+    },
+    {
+        "system_name": "FTBENNNG-ASATMS.ARMY.MIL",
+        "organization": "Fort Benning",
+        "location": "Columbus, GA"
+    },
+    {
+        "system_name": "FTGILLEM-DARMS2.ARMY.MIL",
+        "organization": "Fort Gillem\nHeadquarters\nArmy Forces Command",
+        "location": "Forest Park, GA"
+    },
+    {
+        "system_name": "FTGORDON-AMEDD.ARMY.MIL",
+        "organization": "Fort Gordon\nUCS Branch",
+        "location": "Augusta, GA"
+    },
+    {
+        "system_name": "FTGORDON-GW1.ARMY.MIL",
+        "organization": "Commander Army Information Systems Command",
+        "location": "Fort Gordon, GA"
+    },
+    {
+        "system_name": "FTGORDON-JTELS.ARMY.MIL",
+        "organization": "Fort Gordon",
+        "location": "Augusta, GA"
+    },
+    {
+        "system_name": "FTMCPHSN-DARMS2.ARMY.MIL",
+        "organization": "Fort McPherson",
+        "location": "Atlanta, GA"
+    },
+    {
+        "system_name": "FTMCPHSN-JACS5073.ARMY.MIL",
+        "organization": "Fort McPherson\nForces Command",
+        "location": "Atlanta, GA"
+    },
+    {
+        "system_name": "FTSTEWRT-GW1.ARMY.MIL",
+        "organization": "Commander Army Information Systems Command",
+        "location": "Fort Stewart, GA"
+    },
+    {
+        "system_name": "GORDON-ASTAMS.ARMY.MIL",
+        "organization": "Fort Gordon\nSignal Center",
+        "location": "Augusta, GA"
+    },
+    {
+        "system_name": "GW.DCRA.DLA.MIL",
+        "organization": "Defense Logistics Agency (DLA)",
+        "location": "Marietta, GA"
+    },
+    {
+        "system_name": "KNGSWF.NAVY.MIL",
+        "organization": "Strategic Weapons Facility",
+        "location": "Kings Bay, GA"
+    },
+    {
+        "system_name": "KNGTRF.NAVY.MIL",
+        "organization": "Kings Bay Naval Submarine Base\nTrident Refit Facility",
+        "location": "Kings Bay, GA"
+    },
+    {
+        "system_name": "MCPHERSON.MT.DDN.MIL",
+        "organization": "Fort McPherson\nArmy Information Systems Command (USAISC)\nTechnical Control Facility",
+        "location": "Atlanta, GA"
+    },
+    {
+        "system_name": "NETPMSA-KINGSBAY1.NAVY.MIL",
+        "organization": "Trident Training Facility\nNaval Submarine Base",
+        "location": "Kings Bay, GA"
+    },
+    {
+        "system_name": "ROBINS-AM1.AF.MIL",
+        "organization": "Robins Air Force Base\nAir Force Commissary Detachment 220/FCS\n(AFCOMS)",
+        "location": "Warner Robins, GA"
+    },
+    {
+        "system_name": "ROBINS2-GW.AF.MIL",
+        "organization": "1926CCS",
+        "location": "Robins Air Force Base, GA"
+    },
+    {
+        "system_name": "ROBINSMDSS.AF.MIL",
+        "organization": "Robins Air Force Base",
+        "location": "Warner Robins, GA"
+    },
+    {
+        "system_name": "SORAAA.ARMY.MIL",
+        "organization": "Army Audit Agency Southern Region",
+        "location": "Atlanta, GA"
+    },
+    {
+        "system_name": "STEWART-EMH1.ARMY.MIL",
+        "organization": "Fort Stewart\nArmy 24th Infantry Division",
+        "location": "Hinesville, GA"
+    },
+    {
+        "system_name": "WR-HITS.AF.MIL",
+        "organization": "Robins Air Force Base\nWR-ALC/LYP",
+        "location": "Robins AFB, GA"
+    },
+    {
+        "system_name": "WRDIS01.AF.MIL",
+        "organization": "Robins Air Force Base\nAir Force Logistics Command (AFLC/MMMR)",
+        "location": "Warner Robins, GA"
+    },
+    {
+        "system_name": "ABRAMS.MT.DDN.MIL",
+        "organization": "Abrams Kaserne\nDefense Communications Agency (DCA-Europe)\n228th Signal Corp\nTechnical Control",
+        "location": "GERMANY"
+    },
+    {
+        "system_name": "AFRTS-BERLIN.AF.MIL",
+        "organization": "L.D. Clay Kaserne\nAFN Berlin",
+        "location": "GERMANY"
+    },
+    {
+        "system_name": "ALD-GDSS.AF.MIL",
+        "organization": "Ramstein Air Base",
+        "location": "GERMANY"
+    },
+    {
+        "system_name": "ANSBACH-IGNET.ARMY.MIL",
+        "organization": "Hindenburg Kaserne\nFirst Armored Division",
+        "location": "GERMANY"
+    },
+    {
+        "system_name": "AUGSBURG-AMEDD.ARMY.MIL",
+        "organization": "Reese Kaserne\nArmy MEDDAC",
+        "location": "GERMANY"
+    },
+    {
+        "system_name": "AUGSBURG-EMH1.ARMY.MIL",
+        "organization": "Reese Kaserne\n160th Signal Brigade",
+        "location": "GERMANY"
+    },
+    {
+        "system_name": "BADKREUZN-GW1.ARMY.MIL",
+        "organization": "Data Network Information Center\nDCSOPS\n5th Signal Command\nBad Krueznach",
+        "location": "GERMANY"
+    },
+    {
+        "system_name": "BAMBERG-GW.ARMY.MIL",
+        "organization": "USMCA BAMBERG",
+        "location": "GERMANY"
+    },
+    {
+        "system_name": "BBL-ERF.ARMY.MIL",
+        "organization": "Boeblingen Army Base",
+        "location": "GERMANY"
+    },
+    {
+        "system_name": "BERLIN-AMEDD.ARMY.MIL",
+        "organization": "CDR MEDDAC",
+        "location": "GERMANY"
+    },
+    {
+        "system_name": "BERLIN-IGNET.ARMY.MIL",
+        "organization": "L.D. Clay Kaserne\nClay Compound",
+        "location": "GERMANY"
+    },
+    {
+        "system_name": "BITBURG-GW.AF.MIL",
+        "organization": "Bitburg Air Base\n2139th Communications Squadron (CS/XP)",
+        "location": "GERMANY"
+    },
+    {
+        "system_name": "BREMERHAVE-EMH1.ARMY.MIL",
+        "organization": "Karl Schurz Kaserne\n581st Signal Corp",
+        "location": "GERMANY"
+    },
+    {
+        "system_name": "BREMRHVN-DISMS.DLA.MIL",
+        "organization": "Headquarters\nDefense Subsistence Region\nBremerhaven",
+        "location": "GERMANY"
+    },
+    {
+        "system_name": "BRN-PALS1.ARMY.MIL",
+        "organization": "L.D. Clay Kaserne\nGarlstedt Army Library",
+        "location": "GERMANY"
+    },
+    {
+        "system_name": "CAMPBELL-BKS.MT.DDN.MIL",
+        "organization": "Campbell Barracks\nDefense Information Systems Agency (DISA-Europe)\n43rd Signal Battalion",
+        "location": "GERMANY"
+    },
+    {
+        "system_name": "DAR-IGNET.ARMY.MIL",
+        "organization": "Cambrai Fritsch Kaserne\n32rd Army Air Defense Command",
+        "location": "GERMANY"
+    },
+    {
+        "system_name": "DARMSTADT-EMH1.ARMY.MIL",
+        "organization": "Cambrai Fritch Kaserne\nCommunity DOIM",
+        "location": "GERMANY"
+    },
+    {
+        "system_name": "DECCO-EUROPE.DISA.MIL",
+        "organization": "Sembach Air Station\nDefense Commercial Communications Office (DECCO-Europe)\nDIOOE",
+        "location": "GERMANY"
+    },
+    {
+        "system_name": "DLAS.DLANET.DLA.MIL",
+        "organization": "Lindsey Air Station",
+        "location": "GERMANY"
+    },
+    {
+        "system_name": "DSRE.DLA.MIL",
+        "organization": "Defense Subsistence-Europe",
+        "location": "GERMANY"
+    },
+    {
+        "system_name": "EMMC.DDN.MIL",
+        "organization": "Patch Barracks\nDefense Communications Agency (DCA-Europe)",
+        "location": "GERMANY"
+    },
+    {
+        "system_name": "EUR-GW.DISA.MIL",
+        "organization": "DCA Europe\nPatch Barracks\n#2340 Annex\n#157\nVaihingen",
+        "location": "GERMANY"
+    },
+    {
+        "system_name": "FRANKFRT-ONET.ARMY.MIL",
+        "organization": "Headquarters\nAFNE/AFRTS",
+        "location": "GERMANY"
+    },
+    {
+        "system_name": "FRANKFURT-EMH1.ARMY.MIL",
+        "organization": "Abrams Kaserne\n102d Signal\nFrankfurt ASG DOIM",
+        "location": "GERMANY"
+    },
+    {
+        "system_name": "FRANKFURT-IGNET3.ARMY.MIL",
+        "organization": "Clark Kaserne\n97th General Hospital",
+        "location": "GERMANY"
+    },
+    {
+        "system_name": "FULDA-EMH1.ARMY.MIL",
+        "organization": "Downs Barracks\nCommunity DOIM",
+        "location": "GERMANY"
+    },
+    {
+        "system_name": "GIESSEN-EMH1.ARMY.MIL",
+        "organization": "Pendelton Barracks\nCommunity DOIM",
+        "location": "GERMANY"
+    },
+    {
+        "system_name": "GOEPPINGEN-GW.ARMY.MIL",
+        "organization": "USMCA-GOEPPINGEN",
+        "location": "GERMANY"
+    },
+    {
+        "system_name": "GRAFENWOEHR-GW.ARMY.MIL",
+        "organization": "CDOIM",
+        "location": "GERMANY"
+    },
+    {
+        "system_name": "GRAFENWOEHR-GW1.ARMY.MIL",
+        "organization": "Data Network Information Center\nDCSOPS\n5th Signal Command",
+        "location": "GERMANY"
+    },
+    {
+        "system_name": "GW.EUROPE.DRMS.DLA.MIL",
+        "organization": "Lindsey Air Station\nLindsey DDP\nDRMR-E",
+        "location": "GERMANY"
+    },
+    {
+        "system_name": "HAHN-AM1.AF.MIL",
+        "organization": "Hahn Air Base",
+        "location": "GERMANY"
+    },
+    {
+        "system_name": "HAHN-PIV.AF.MIL",
+        "organization": "Hahn Air Base\n2184 Communication Station/DOA",
+        "location": "GERMANY"
+    },
+    {
+        "system_name": "HAMMOND.MT.DDN.MIL",
+        "organization": "Hammond Barracks\nArmy Materiel Command",
+        "location": "GERMANY"
+    },
+    {
+        "system_name": "HANAU-GW1.ARMY.MIL",
+        "organization": "CDOIM HANAU",
+        "location": "GERMANY"
+    },
+    {
+        "system_name": "HDG-IGNET1.ARMY.MIL",
+        "organization": "Campbell Barracks\nSeventh Medical Command IG",
+        "location": "GERMANY"
+    },
+    {
+        "system_name": "HDG-PCC.ARMY.MIL",
+        "organization": "Campbell Barracks\nCINCUSAREUR",
+        "location": "GERMANY"
+    },
+    {
+        "system_name": "HEIDELBERG-EMH1.ARMY.MIL",
+        "organization": "Campbell Barracks\nUSAREUR",
+        "location": "GERMANY"
+    },
+    {
+        "system_name": "HEIDELBERG-IGNET.ARMY.MIL",
+        "organization": "Campbell Barracks",
+        "location": "GERMANY"
+    },
+    {
+        "system_name": "JACS5460.ARMY.MIL",
+        "organization": "Kleber Kaserne\n45th Area Finance Support Center",
+        "location": "GERMANY"
+    },
+    {
+        "system_name": "KAISERSLAU-ASIMS.ARMY.MIL",
+        "organization": "29th ASG-KAD",
+        "location": "GERMANY"
+    },
+    {
+        "system_name": "KAISERSLAU-IGNET2.ARMY.MIL",
+        "organization": "Panzer Kaserne",
+        "location": "GERMANY"
+    },
+    {
+        "system_name": "KARLSRUHE-ASIMS.ARMY.MIL",
+        "organization": "Gerszewski Barracks\n160th Signal Brigade",
+        "location": "GERMANY"
+    },
+    {
+        "system_name": "KILBORNE-ASIMS.ARMY.MIL",
+        "organization": "Kilbourne Kaserne\n1st Information Systems Group",
+        "location": "GERMANY"
+    },
+    {
+        "system_name": "KREUZBURG.MMT.DDN.MIL",
+        "organization": "Kreuzberg Kaserne\nDSRE/AI",
+        "location": "GERMANY"
+    },
+    {
+        "system_name": "L-D-CLAY.MT.DDN.MIL",
+        "organization": "L.D. Clay Kaserne\nDCS Station Berlin",
+        "location": "GERMANY"
+    },
+    {
+        "system_name": "LANDSTUHL1-MPRJSS.ARMY.MIL",
+        "organization": "Landstuhl Regional Medical Center\n3377\nTech Control\n327th Signal Company Detachment\nLandstuhl\nAPO New York 09180",
+        "location": "GERMANY"
+    },
+    {
+        "system_name": "LEIGHTON.MT.DDN.MIL",
+        "organization": "Leighton Barracks\nDefense Communication System - Wurzburg",
+        "location": "GERMANY"
+    },
+    {
+        "system_name": "LINDSEY-GW.AF.MIL",
+        "organization": "Lindsey Air Station\n2063rd Communication Squadron/LGM",
+        "location": "GERMANY"
+    },
+    {
+        "system_name": "MAINZ-EMH1.ARMY.MIL",
+        "organization": "Lee Barracks\n232nd Signal Corp",
+        "location": "GERMANY"
+    },
+    {
+        "system_name": "MAINZ-GW.ARMY.MIL",
+        "organization": "Lee Barracks\nCommunity DOIM Mainz",
+        "location": "GERMANY"
+    },
+    {
+        "system_name": "MCGRAW.MT.DDN.MIL",
+        "organization": "McGraw Kaserne\nDCS Facility",
+        "location": "GERMANY"
+    },
+    {
+        "system_name": "MOEHRINGEN-IGNET.ARMY.MIL",
+        "organization": "Kelley Barracks",
+        "location": "GERMANY"
+    },
+    {
+        "system_name": "MTF-GEILENKIRCHEN.AF.MIL",
+        "organization": "Geilenkirchen Air Force\nAir Force Clinic",
+        "location": "GERMANY"
+    },
+    {
+        "system_name": "MTF-ZWEI.AF.MIL",
+        "organization": "Kreuzberg Kaserne\nAir Force Clinic",
+        "location": "GERMANY"
+    },
+    {
+        "system_name": "MUNICH-GW1.ARMY.MIL",
+        "organization": "535th Signal Company",
+        "location": "GERMANY"
+    },
+    {
+        "system_name": "NUERNBERG-GW1.ARMY.MIL",
+        "organization": "Darby Kaserne\nCommunity DOIM",
+        "location": "GERMANY"
+    },
+    {
+        "system_name": "OBL-LINK-GW.EUCOM.MIL",
+        "organization": "14th Transportation Command\nCamp King",
+        "location": "GERMANY"
+    },
+    {
+        "system_name": "PATCH.DISA.MIL",
+        "organization": "Patch Barracks\nHeadquarters\nDefense Communications Agency (DCA-Europe)",
+        "location": "GERMANY"
+    },
+    {
+        "system_name": "PATCH.MT.DDN.MIL",
+        "organization": "Patch Barracks\nDefense Information Systems Agency (DISA-Europe)",
+        "location": "GERMANY"
+    },
+    {
+        "system_name": "PATCH2.MT.DDN.MIL",
+        "organization": "Patch Barracks\nDefense Communications Agency (DCA-Europe)",
+        "location": "GERMANY"
+    },
+    {
+        "system_name": "PIONEER.MMT.DDN.MIL",
+        "organization": "Pioneer Kaserne\nHanau",
+        "location": "GERMANY"
+    },
+    {
+        "system_name": "PIRMASENS-IGNET.ARMY.MIL",
+        "organization": "59th Ordnance Brigade",
+        "location": "GERMANY"
+    },
+    {
+        "system_name": "RAMSTEIN-AM3.AF.MIL",
+        "organization": "Ramstein Air Base\nAir Force Commissary (AFCOMS)\nDetachment European Region",
+        "location": "GERMANY"
+    },
+    {
+        "system_name": "RAMSTEIN.MT.DDN.MIL",
+        "organization": "Ramstein Air Base\n1964 Communications Group (CG/LGU)",
+        "location": "GERMANY"
+    },
+    {
+        "system_name": "RAMSTEIN2-EMH.AF.MIL",
+        "organization": "Ramstein Air Base",
+        "location": "GERMANY"
+    },
+    {
+        "system_name": "RHE-EDS.AF.MIL",
+        "organization": "Rhein Main Air Base",
+        "location": "GERMANY"
+    },
+    {
+        "system_name": "RHEINMAIN-GW.AF.MIL",
+        "organization": "Rhein Main Air Base\n1945 Communications Squadron/LGU",
+        "location": "GERMANY"
+    },
+    {
+        "system_name": "SCHWEINFUR-EMH1.ARMY.MIL",
+        "organization": "Ledward Barracks\n252 Signal Corp",
+        "location": "GERMANY"
+    },
+    {
+        "system_name": "SCHWETZINGEN.MMT.DDN.MIL",
+        "organization": "CDR43RDSIGBN",
+        "location": "GERMANY"
+    },
+    {
+        "system_name": "SECKENHEIM-EMH1.ARMY.MIL",
+        "organization": "Hammond Barracks\nArmy Materiel Command - Europe",
+        "location": "GERMANY"
+    },
+    {
+        "system_name": "SECKENHEIM-EMH4.ARMY.MIL",
+        "organization": "Hammond Barracks\nArmy Information Systems Command (USAISC) Europe\nArmy Materiel Command\nManagement Information Systems Division",
+        "location": "GERMANY"
+    },
+    {
+        "system_name": "SEMBACH-GW.AF.MIL",
+        "organization": "2134 CS/LGU",
+        "location": "Germany"
+    },
+    {
+        "system_name": "SFT-CPO.ARMY.MIL",
+        "organization": "Schweinfurt\nU.S. MCA",
+        "location": "GERMANY"
+    },
+    {
+        "system_name": "SGT-ASIMS.ARMY.MIL",
+        "organization": "Wallace Barracks\nAutomatic Data Processing Service Center",
+        "location": "GERMANY"
+    },
+    {
+        "system_name": "SPANGDAHLEM-GW.AF.MIL",
+        "organization": "Spangdahlem Air Base\n2137 Communications Squadron/LGU",
+        "location": "GERMANY"
+    },
+    {
+        "system_name": "SZN-IGNET.ARMY.MIL",
+        "organization": "Tompkins Kaserne",
+        "location": "GERMANY"
+    },
+    {
+        "system_name": "VHN-PCC.ARMY.MIL",
+        "organization": "Patch Barracks\nDefense Communications Agency (DCA-Europe)",
+        "location": "GERMANY"
+    },
+    {
+        "system_name": "VOGELWEH-AM3.AF.MIL",
+        "organization": "Vogelweh Air Base\nAir Force Commissary\nCentral European Region",
+        "location": "GERMANY"
+    },
+    {
+        "system_name": "WIESBADN-EMH1.ARMY.MIL",
+        "organization": "Wiesbaden Air Base\nCommunity DOIM",
+        "location": "GERMANY"
+    },
+    {
+        "system_name": "WORMS-EMH1.ARMY.MIL",
+        "organization": "Taukkenun Barracks\nHeadquarters\nArmy Information Systems Command (USAISC)\nFifth Signal Command",
+        "location": "GERMANY"
+    },
+    {
+        "system_name": "WORMS-GW1.ARMY.MIL",
+        "organization": "Taukkenun Barracks\nHHC 2nd Signal Brigade",
+        "location": "GERMANY"
+    },
+    {
+        "system_name": "WUERZBURG-EMH1.ARMY.MIL",
+        "organization": "Faulenburg Kaserne\n160th Signal Brigade",
+        "location": "GERMANY"
+    },
+    {
+        "system_name": "WUR-IGNET.ARMY.MIL",
+        "organization": "Leighton Barracks\n3rd Infantry Division Information Group - DAIG-IRA",
+        "location": "GERMANY"
+    },
+    {
+        "system_name": "ZBN-ERFNAH.ARMY.MIL",
+        "organization": "Army Materiel Command - Europe",
+        "location": "GERMANY"
+    },
+    {
+        "system_name": "ZWEIBRUCKE-ASIMS.ARMY.MIL",
+        "organization": "Kruezberg Kaserne\n37th Signal Corp",
+        "location": "GERMANY"
+    },
+    {
+        "system_name": "ZWEIBRUCKEN-GW.AF.MIL",
+        "organization": "Kruezberg Kaserne\n2143rd Communications Squadron/L",
+        "location": "GERMANY"
+    },
+    {
+        "system_name": "IRAKLION-GW.AF.MIL",
+        "organization": "Iraklion Air Station\n2115 Communications Squadron/DON",
+        "location": "GREECE"
+    },
+    {
+        "system_name": "ANDERSEN-AM2.AF.MIL",
+        "organization": "Andersen Air Force Base\nAir Force Commissary Detachment\n(AFCOMS)",
+        "location": "GUAM"
+    },
+    {
+        "system_name": "ANDERSEN.MT.DDN.MIL",
+        "organization": "Andersen Air Force Base",
+        "location": "GUAM"
+    },
+    {
+        "system_name": "GU-NGNET.ARMY.MIL",
+        "organization": "Fort Juan Muna\nUSPFO",
+        "location": "GUAM"
+    },
+    {
+        "system_name": "GUAM-PSS.ARMY.MIL",
+        "organization": "Pacific Stars and Stripes Systems Automation",
+        "location": "GUAM"
+    },
+    {
+        "system_name": "MEDNET-GUAM.AF.MIL",
+        "organization": "Andersen Air Force Base\nAir Force Clinic",
+        "location": "GUAM"
+    },
+    {
+        "system_name": "SRF-GUAM.NAVY.MIL",
+        "organization": "Naval Ship Repair Facility",
+        "location": "GUAM"
+    },
+    {
+        "system_name": "CPF.NAVY.MIL",
+        "organization": "Pearl Harbor Naval Shipyard\nPacific Navy Logistics",
+        "location": "Honolulu, HI"
+    },
+    {
+        "system_name": "DDN-WMS-PAC.DDN.MIL",
+        "organization": "Wheeler Air Force Base\nDefense Communications Agency (DCA-Pacific)",
+        "location": "Wahiawa, HI"
+    },
+    {
+        "system_name": "DEERS-ASMO.NAVY.MIL",
+        "organization": "Camp H.M. Smith",
+        "location": "Camp H.M. Smith, HI"
+    },
+    {
+        "system_name": "FTSHAFTER-IGNET2.ARMY.MIL",
+        "organization": "Fort Shafter\nArmy Headquarters Western Command",
+        "location": "Fort Shafter, HI"
+    },
+    {
+        "system_name": "GW.PACIFIC.DRMS.DLA.MIL",
+        "organization": "Defense Reutilization and Marketing",
+        "location": "Pearl City, HI"
+    },
+    {
+        "system_name": "HI-NGNET.ARMY.MIL",
+        "organization": "USPFOHI",
+        "location": "Honolulu, HI"
+    },
+    {
+        "system_name": "HICKAM.MT.DDN.MIL",
+        "organization": "Hickam Air Force Base\n15th Air Base Wing\n15 ABW/SCLU",
+        "location": "Honolulu, HI"
+    },
+    {
+        "system_name": "LPAX44.NAVY.MIL",
+        "organization": "NAVCALABS BARBERS PT DET\nP.O. BOX 349\nNAS BARBERS POINT",
+        "location": "HI"
+    },
+    {
+        "system_name": "NAVDAF-PEARL1.NAVY.MIL",
+        "organization": "Pearl Harbor Naval Shipyard\nNavy Regional Data Automation Center (NARDAC)",
+        "location": "Honolulu, HI"
+    },
+    {
+        "system_name": "NAVY-MISC-80.NAVY.MIL",
+        "organization": "Pearl Harbor Naval Shipyard",
+        "location": "Honolulu, HI"
+    },
+    {
+        "system_name": "NCPDS-PEARL.NAVY.MIL",
+        "organization": "Pearl Harbor Naval Shipyard\nIndustrial Relations Office",
+        "location": "Honolulu, HI"
+    },
+    {
+        "system_name": "NETPMSA-PEARL1.NAVY.MIL",
+        "organization": "Fleet Training Group Supply Office",
+        "location": "Ford Island, HI"
+    },
+    {
+        "system_name": "NSTCPVAX.NAVY.MIL",
+        "organization": "Pearl Harbor Naval Shipyard\nNaval Submarine Training Center - Pacific",
+        "location": "Honolulu, HI"
+    },
+    {
+        "system_name": "NUWES-LLL.NAVY.MIL",
+        "organization": "Naval Undersea Warfare Engineering Station (NUWES-OINC)\nHawaii Detachment",
+        "location": "Lualualei, HI"
+    },
+    {
+        "system_name": "PAC.DISA.MIL",
+        "organization": "Wheeler Air Force Base\nDefense Communications Agency (DCA-Pacific)",
+        "location": "Wahiawa, HI"
+    },
+    {
+        "system_name": "PEARLHARBOR.MT.DDN.MIL",
+        "organization": "Pearl Harbor Naval Shipyard\nNaval Data Automation Facility (NAVDAF)\nNaval Supply Center",
+        "location": "Honolulu, HI"
+    },
+    {
+        "system_name": "PHNSY-GW.NAVY.MIL",
+        "organization": "Pearl Harbor Naval Shipyard",
+        "location": "Pearl Harbor, HI"
+    },
+    {
+        "system_name": "PMMC2.DDN.MIL",
+        "organization": "DCA PAC",
+        "location": "HI"
+    },
+    {
+        "system_name": "PRLNSC.NAVY.MIL",
+        "organization": "Naval Supply Center",
+        "location": "Honolulu, HI"
+    },
+    {
+        "system_name": "SCHFLDBK-JACS5550.ARMY.MIL",
+        "organization": "Schofield Barracks\n125th FSU",
+        "location": "Schofield Barracks, HI"
+    },
+    {
+        "system_name": "SCHOFIELD-GW1.ARMY.MIL",
+        "organization": "CDR 1116TH SIGBN /ASQP-HFB/",
+        "location": "HI"
+    },
+    {
+        "system_name": "SDS-HAWAIIA.NAVY.MIL",
+        "organization": "Pearl Harbor Naval Shipyard\nNaval Data Automation Facility (NAVDAF)\nNaval Supply Center",
+        "location": "Honolulu, HI"
+    },
+    {
+        "system_name": "SHAFTER-GW1.ARMY.MIL",
+        "organization": "Fort Shafter\nCDR\nUSAISECPAC",
+        "location": "Fort Shafter, HI"
+    },
+    {
+        "system_name": "SHAFTER-JSSTAC.ARMY.MIL",
+        "organization": "USASCH",
+        "location": "FT Shafter, HI"
+    },
+    {
+        "system_name": "SMITH.MT.DDN.MIL",
+        "organization": "Fort Shafter\nCommander in Chief - Pacific (CINCPAC)\nStaff C3SRD\nP.O. Box 29",
+        "location": "Camp H.M. Smith, HI"
+    },
+    {
+        "system_name": "TRIPLER-IGNET.ARMY.MIL",
+        "organization": "Tripler Army Medical Center",
+        "location": "Tripler Army Medical Center, HI"
+    },
+    {
+        "system_name": "WHEELER.MT.DDN.MIL",
+        "organization": "Defense Information Systems Agency\nPacific Area",
+        "location": "Wheeler Air Force Base, HI"
+    },
+    {
+        "system_name": "DMRIS-KEFLAVIK.NAVY.MIL",
+        "organization": "Keflavik Naval Air Station\nNaval Hospital\nBox 8",
+        "location": "ICELAND"
+    },
+    {
+        "system_name": "GOWENFLD-ASBN.ARMY.MIL",
+        "organization": "INSTALLATION SUPPORT UNIT\nIDGF-MP",
+        "location": "ID"
+    },
+    {
+        "system_name": "ARGONNE.MT.DDN.MIL",
+        "organization": "Argonne National Laboratories\nComputer Services Center",
+        "location": "Argonne, IL"
+    },
+    {
+        "system_name": "CNET-GRLP0210.NAVY.MIL",
+        "organization": "Great Lakes Naval Training Center\nService Schools Command\nEngineering Systems School",
+        "location": "North Chicago, IL"
+    },
+    {
+        "system_name": "DECCO.DISA.MIL",
+        "organization": "Scott Air Force Base\nDefense Commercial Communications Office (DECCO)",
+        "location": "Belleville, IL"
+    },
+    {
+        "system_name": "FTSHERDN-IGNET2.ARMY.MIL",
+        "organization": "Fort Sheridan",
+        "location": "Highland Park, IL"
+    },
+    {
+        "system_name": "GREAT-LAKES.MT.DDN.MIL",
+        "organization": "Great Lakes Naval Training Center",
+        "location": "North Chicago, IL"
+    },
+    {
+        "system_name": "GREATLAKES-GW1.ARMY.MIL",
+        "organization": "HQ USMEPCOM-MEPCIM-MA",
+        "location": "NORTH CHICAGO, IL"
+    },
+    {
+        "system_name": "HQMAC-ASIFICS-GW.AF.MIL",
+        "organization": "Scott Air Force Base\nHeadquarters\nMAA/ACIS",
+        "location": "Belleville, IL"
+    },
+    {
+        "system_name": "NETPMSA-GTLAKES2.NAVY.MIL",
+        "organization": "Great Lakes Naval Training Center\nService Schools Command\nFire Control School and Gun Maintenance",
+        "location": "North Chicago, IL"
+    },
+    {
+        "system_name": "RIA-2.ARMY.MIL",
+        "organization": "Rock Island Arsenal\nArmy Information Systems Command (USAISC)\nAMCCOM",
+        "location": "Rock Island, IL"
+    },
+    {
+        "system_name": "RIA-GW1.ARMY.MIL",
+        "organization": "Rock Island Arsenal\nArmy Information Systems Command (USAISC)\nAMCCOM",
+        "location": "Rock Island, IL"
+    },
+    {
+        "system_name": "ROCKI-ASBN.ARMY.MIL",
+        "organization": "Director Army Information System Command",
+        "location": "Rock Island Arsenal, IL"
+    },
+    {
+        "system_name": "ROCKI-GW1.ARMY.MIL",
+        "organization": "USAISC-AMCCOM",
+        "location": "Rock Island Arsenal, IL"
+    },
+    {
+        "system_name": "ROCKI-IGNET.ARMY.MIL",
+        "organization": "Rock Island Arsenal\nAMCCOM Rock Island",
+        "location": "Rock Island, IL"
+    },
+    {
+        "system_name": "SCOTT.MT.DDN.MIL",
+        "organization": "Scott Air Force Base\nAir Force Communications Command (AFCC-SISO)",
+        "location": "Belleville, IL"
+    },
+    {
+        "system_name": "SCOTT2-GW.AF.MIL",
+        "organization": "1974CG/SCOY",
+        "location": "IL"
+    },
+    {
+        "system_name": "SDS-GLAKESA.NAVY.MIL",
+        "organization": "Navy Data Automation Facility (NAVDAF)",
+        "location": "North Chicago, IL"
+    },
+    {
+        "system_name": "SHERIDAN-DARMS.ARMY.MIL",
+        "organization": "Fort Sheridan",
+        "location": "Highland Park, IL"
+    },
+    {
+        "system_name": "SPRNGFLD-GW.ARMY.MIL",
+        "organization": "USPFO-IL",
+        "location": "Springfield, IL"
+    },
+    {
+        "system_name": "BEN-HARRIS-TEP2.ARMY.MIL",
+        "organization": "Army Information Systems Command",
+        "location": "Fort Ben Harrison, IN"
+    },
+    {
+        "system_name": "BEN-HARRIS-TEP4.ARMY.MIL",
+        "organization": "Army Information Systems Command",
+        "location": "Fort Ben Harrison, IN"
+    },
+    {
+        "system_name": "BENHARRISON.MT.DDN.MIL",
+        "organization": "Fort Benjamin Harrison\nArmy Information Systems Command (USAISC)\nArmy Finance and Accounting Center",
+        "location": "Indianapolis, IN"
+    },
+    {
+        "system_name": "CPATTBRY-ASBN.ARMY.MIL",
+        "organization": "CDR\nMDI-ISU-CA",
+        "location": "IN"
+    },
+    {
+        "system_name": "CRANE-EMH1.ARMY.MIL",
+        "organization": "Naval Weapons Center\nCode 033",
+        "location": "Crane, IN"
+    },
+    {
+        "system_name": "CRANE-TEP.MT.DDN.MIL",
+        "organization": "Naval Weapons Support Center\nCrane Division - Naval Surface Warfare Center",
+        "location": "Crane, IN"
+    },
+    {
+        "system_name": "FTBNHRSN-AMEDD.ARMY.MIL",
+        "organization": "Fort Benjamin Harrison\nHawley Army Community Hospital",
+        "location": "Indianapolis, IN"
+    },
+    {
+        "system_name": "FTBNHRSN-GW1.ARMY.MIL",
+        "organization": "Commander\nArmy Information Systems Command",
+        "location": "IN"
+    },
+    {
+        "system_name": "FTBNHRSN-JACS1.ARMY.MIL",
+        "organization": "Fort Benjamin Harrison\nArmy Information Systems Command (USAISC)",
+        "location": "Indianapolis, IN"
+    },
+    {
+        "system_name": "FTBNHRSN-JACSTEST.ARMY.MIL",
+        "organization": "Fort Benjamin Harrison\nArmy Finance and Accounting Center",
+        "location": "Indianapolis, IN"
+    },
+    {
+        "system_name": "FTBNHRSN-MPRJSS1.ARMY.MIL",
+        "organization": "USAISC-FBH",
+        "location": "Fort Ben Harrison, IN"
+    },
+    {
+        "system_name": "FTBNHRSN-MPRJSS2.ARMY.MIL",
+        "organization": "USAISC-FBH",
+        "location": "Fort Ben Harrison, IN"
+    },
+    {
+        "system_name": "FTBNHRSN-MPRJSS3.ARMY.MIL",
+        "organization": "Army Information Systems Command -FBH",
+        "location": "Fort Ben Harrison, IN"
+    },
+    {
+        "system_name": "FTBNHRSN-MPRJSS4.ARMY.MIL",
+        "organization": "USAISC-FBH",
+        "location": "Fort Ben Harrison, IN"
+    },
+    {
+        "system_name": "FTBNHRSN-PBAS1.ARMY.MIL",
+        "organization": "Fort Benjamin Harrison\nArmy Information Systems Command (USAISC)",
+        "location": "Indianapolis, IN"
+    },
+    {
+        "system_name": "FTBNHRSN-PBAS4.ARMY.MIL",
+        "organization": "Fort Benjamin Harrison\nArmy Information Systems Engineering Command (USAISEC)",
+        "location": "Indianapolis, IN"
+    },
+    {
+        "system_name": "HARRISON-ATO.ARMY.MIL",
+        "organization": "Fort Monroe\nTraining and Doctrine Command (TRADOC)\nSoldier Support Center",
+        "location": "Indianapolis, IN"
+    },
+    {
+        "system_name": "INDPLS-ASAFM1.ARMY.MIL",
+        "organization": "Fort Benjamin Harrison\nComptroller of the Army",
+        "location": "Indianapolis, IN"
+    },
+    {
+        "system_name": "AGNANO.MT.DDN.MIL",
+        "organization": "Naval Support Activity",
+        "location": "ITALY"
+    },
+    {
+        "system_name": "AVIANO-AM1.AF.MIL",
+        "organization": "Aviano Air Base\nAir Force Commissary (AFCOMS)\nDetachment 60",
+        "location": "ITALY"
+    },
+    {
+        "system_name": "AVIANO-PIV-2.AF.MIL",
+        "organization": "Aviano Air Base\n2187th Communications Group/DOA",
+        "location": "ITALY"
+    },
+    {
+        "system_name": "AVIANO.MT.DDN.MIL",
+        "organization": "Aviano Air Base\n40th Communications Systems Squadron/DPMD",
+        "location": "ITALY"
+    },
+    {
+        "system_name": "COLTANO.MT.DDN.MIL",
+        "organization": "Coltano Army Barracks",
+        "location": "ITALY"
+    },
+    {
+        "system_name": "CPO-LINK-GW.EUCOM.MIL",
+        "organization": "Capodichino Airport\nNaval CAMS MED/12",
+        "location": "ITALY"
+    },
+    {
+        "system_name": "LEGHORN-ASIMS.ARMY.MIL",
+        "organization": "Leghorn Army Depot\n56th Signal Corp",
+        "location": "ITALY"
+    },
+    {
+        "system_name": "NAPLES-BUMED.NAVY.MIL",
+        "organization": "Navy Naval Hospital MIS Department",
+        "location": "ITALY"
+    },
+    {
+        "system_name": "SAN-VITO.MMT.DDN.MIL",
+        "organization": "San Vito Air Station\nSan Vito",
+        "location": "ITALY"
+    },
+    {
+        "system_name": "SANVITO.MT.DDN.MIL",
+        "organization": "2113 CS/LGU",
+        "location": "ITALY"
+    },
+    {
+        "system_name": "SIGONELLA.MT.DDN.MIL",
+        "organization": "Sigonella Naval Air Station\nNATO Maritime Air Field (NAS II)\nAutomated Data Processing Department",
+        "location": "ITALY"
+    },
+    {
+        "system_name": "VIC-ASIMS.ARMY.MIL",
+        "organization": "Caserma Ederle\n54th Signal Corp",
+        "location": "ITALY"
+    },
+    {
+        "system_name": "VIC-IGNET.ARMY.MIL",
+        "organization": "Vicenza Army Base",
+        "location": "ITALY"
+    },
+    {
+        "system_name": "VICENZA-AMEDD.ARMY.MIL",
+        "organization": "Caserma Ederle\nMedical Department Activity",
+        "location": "ITALY"
+    },
+    {
+        "system_name": "VICENZA.MT.DDN.MIL",
+        "organization": "Caserma Ederle\n54th Signal Command",
+        "location": "ITALY"
+    },
+    {
+        "system_name": "AFPBS.AF.MIL",
+        "organization": "Yokota Air Base\nAir Force Pacific Broadcasting System",
+        "location": "JAPAN"
+    },
+    {
+        "system_name": "ANCPDS-YOKOSUKA.NAVY.MIL",
+        "organization": "Yokosuka Naval Base\nConsolate Civilian Personnel Office",
+        "location": "JAPAN"
+    },
+    {
+        "system_name": "AYOKNSD.NAVY.MIL",
+        "organization": "Yokosuka Naval Base\nData Processing Center",
+        "location": "JAPAN"
+    },
+    {
+        "system_name": "BUCKNER-GW1.ARMY.MIL",
+        "organization": "Fort Buckner\n1140th Signal Battalion",
+        "location": "JAPAN"
+    },
+    {
+        "system_name": "BUCKNER.MT.DDN.MIL",
+        "organization": "Fort Buckner\nArmy Information Systems Command (USAISC)\nTechnical Control Facility",
+        "location": "JAPAN"
+    },
+    {
+        "system_name": "CPZAMA-JACS6350.ARMY.MIL",
+        "organization": "Camp Zama",
+        "location": "JAPAN"
+    },
+    {
+        "system_name": "KADENA-AM2.AF.MIL",
+        "organization": "Kadena Air Base\nAir Force Commissary (AFCOMS)",
+        "location": "JAPAN"
+    },
+    {
+        "system_name": "KADENA.MT.DDN.MIL",
+        "organization": "Kadena Air Base\n18th Communications Squadron/SCOT\nUnit 5149\nOkinawa",
+        "location": "JAPAN"
+    },
+    {
+        "system_name": "MISAWA-GW.AF.MIL",
+        "organization": "Misiwa Air Base\n2114 Communications Squadron/DONP",
+        "location": "JAPAN"
+    },
+    {
+        "system_name": "NCPDS-ATSUGI.NAVY.MIL",
+        "organization": "Atsugi Naval Air Facility",
+        "location": "JAPAN"
+    },
+    {
+        "system_name": "NCPDS-IWAKUNI.NAVY.MIL",
+        "organization": "Iwakuni Marine Corp Air Station\n(MCAS Iwakuni)\nCivilian Pay Office",
+        "location": "JAPAN"
+    },
+    {
+        "system_name": "PACDPINET-BUCKNER.ARMY.MIL",
+        "organization": "Fort Buckner\n1140th Signal Battalion",
+        "location": "JAPAN"
+    },
+    {
+        "system_name": "SAC-MISC3.AF.MIL",
+        "organization": "Kadena Air Base\n376 Strategic Air Command Wing",
+        "location": "JAPAN"
+    },
+    {
+        "system_name": "TOKYO-PSS.ARMY.MIL",
+        "organization": "Hardy Barracks\nPacific Stars and Stripes Systems",
+        "location": "JAPAN"
+    },
+    {
+        "system_name": "TORII-GW2.ARMY.MIL",
+        "organization": "CDR 1140TH SIG BN/APAJ-GO-IM-IC",
+        "location": "JAPAN"
+    },
+    {
+        "system_name": "YOKOTA-GW.AF.MIL",
+        "organization": "Yokota Air Base\n1956 Communications Group/DOX",
+        "location": "JAPAN"
+    },
+    {
+        "system_name": "YOKOTA.MT.DDN.MIL",
+        "organization": "Yokota Air Base\n1956 Information Systems Group/DOX",
+        "location": "JAPAN"
+    },
+    {
+        "system_name": "ZAMA-IGNET.ARMY.MIL",
+        "organization": "Camp Zama\nIX Corps",
+        "location": "JAPAN"
+    },
+    {
+        "system_name": "ZAMA.MT.DDN.MIL",
+        "organization": "Camp Zama\nArmy Information Systems Command (USAISC)",
+        "location": "JAPAN"
+    },
+    {
+        "system_name": "FTLVNWRT-AMEDD.ARMY.MIL",
+        "organization": "Fort Leavenworth\nArmy MEDDAC",
+        "location": "Fort Leavenworth, KS"
+    },
+    {
+        "system_name": "FTRILEY-AMEDD.ARMY.MIL",
+        "organization": "Fort Riley\nArmy MEDDAC",
+        "location": "Fort Riley, KS"
+    },
+    {
+        "system_name": "FTRILEY-GW1.ARMY.MIL",
+        "organization": "Commander Army Information Systems Command",
+        "location": "Fort Riley, KS"
+    },
+    {
+        "system_name": "FTRILEY-JACS5008.ARMY.MIL",
+        "organization": "Fort Riley\nFinance and Accounting Office",
+        "location": "Fort Riley, KS"
+    },
+    {
+        "system_name": "LEAV-GW2.ARMY.MIL",
+        "organization": "Commander Army Information Systems Command",
+        "location": "Fort Leavenworth, KS"
+    },
+    {
+        "system_name": "LEAVENWORTH.MT.DDN.MIL",
+        "organization": "Fort Leavenworth\nArmy Information Systems Command (USAISC)\nTechnical Control Center",
+        "location": "Leavenworth, KS"
+    },
+    {
+        "system_name": "MCCONNELL-GW.AF.MIL",
+        "organization": "McConnell Air Force Base\nMcConnell Air Force Base\n384CS/SCO",
+        "location": "MCCONNELL AFB, KS"
+    },
+    {
+        "system_name": "RILEY.MT.DDN.MIL",
+        "organization": "Fort Riley\nArmy Information Systems Command (USAISC)",
+        "location": "Junction City, KS"
+    },
+    {
+        "system_name": "CAMPBELL-ASBN.ARMY.MIL",
+        "organization": "Fort Campbell\nArmy Information Systems Command (USAISC) -DOIM)",
+        "location": "Fort Campbell, KY"
+    },
+    {
+        "system_name": "CAMPBELL-SINGERLI.ARMY.MIL",
+        "organization": "Fort Campbell\nCW4 Flight Simulation",
+        "location": "Fort Campbell, KY"
+    },
+    {
+        "system_name": "FTCMPBLL-AMEDD.ARMY.MIL",
+        "organization": "Fort Campbell",
+        "location": "Fort Campbell, KY"
+    },
+    {
+        "system_name": "FTCMPBLL-GW1.ARMY.MIL",
+        "organization": "Army Information Systems Command",
+        "location": "Fort Campbell, KY"
+    },
+    {
+        "system_name": "FTKNOX-GW1.ARMY.MIL",
+        "organization": "Commander Army Information Systems Command",
+        "location": "Fort Knox, KY"
+    },
+    {
+        "system_name": "HCLOU2-GW.NAVY.MIL",
+        "organization": "Naval Ordnance Station",
+        "location": "Louisville, KY"
+    },
+    {
+        "system_name": "KNOX-JACS6339.ARMY.MIL",
+        "organization": "Fort Knox",
+        "location": "Louisville, KY"
+    },
+    {
+        "system_name": "LEXINGTON-EMH1.ARMY.MIL",
+        "organization": "Lexington Bluegrass Army Depot\nArmy Information Systems Command (USAISC)",
+        "location": "Lexington, KY"
+    },
+    {
+        "system_name": "LOUISVILLE-ASIMS2.ARMY.MIL",
+        "organization": "Army Information Systems Command (USAISC)",
+        "location": "Louisville, KY"
+    },
+    {
+        "system_name": "AFKN-ONET.ARMY.MIL",
+        "organization": "Yongsan Air Base",
+        "location": "KOREA"
+    },
+    {
+        "system_name": "CPHMPHRY-JACS5480.ARMY.MIL",
+        "organization": "Camp Humphreys\n176th Finance Support Unit",
+        "location": "KOREA"
+    },
+    {
+        "system_name": "IGNET-CPCASEY.ARMY.MIL",
+        "organization": "Camp Casey\n2nd Infantry Division",
+        "location": "KOREA"
+    },
+    {
+        "system_name": "KUNSAN-GW.AF.MIL",
+        "organization": "Kunsan Air Base\n1982 Communications Squadron/DOA",
+        "location": "KOREA"
+    },
+    {
+        "system_name": "OSAN-AM1.AF.MIL",
+        "organization": "Osan Air Base\nAir Force Commissary (AFCOMS)\nDetachment OL KOO/FCS",
+        "location": "KOREA"
+    },
+    {
+        "system_name": "POF-HAR.ARMY.MIL",
+        "organization": "Engineering District Far East/POFD",
+        "location": "KOREA"
+    },
+    {
+        "system_name": "WALKER.MT.DDN.MIL",
+        "organization": "Camp Walker\n169th Signal Company",
+        "location": "KOREA"
+    },
+    {
+        "system_name": "YONGSAN-IGNET2.ARMY.MIL",
+        "organization": "Yongsan Air Base\nEighteenth Medical Command",
+        "location": "KOREA"
+    },
+    {
+        "system_name": "YONGSAN2.MT.DDN.MIL",
+        "organization": "Yongsan Air Base",
+        "location": "KOREA"
+    },
+    {
+        "system_name": "BARKSDALE-GW.AF.MIL",
+        "organization": "Barksdale Air Force Base\n46th Communications Group (CG/LGPB)",
+        "location": "Bossier City, LA"
+    },
+    {
+        "system_name": "CONCGWY-GW.NAVY.MIL",
+        "organization": "Navy Regional Data Automation Center (NARDAC)",
+        "location": "New Orleans, LA"
+    },
+    {
+        "system_name": "FTPOLK-AMEDD.ARMY.MIL",
+        "organization": "Fort Polk",
+        "location": "Fort Polk, LA"
+    },
+    {
+        "system_name": "FTPOLK-GW1.ARMY.MIL",
+        "organization": "USAISC - Fort Polk",
+        "location": "Fort Polk, LA"
+    },
+    {
+        "system_name": "NAVRESFOR.NAVY.MIL",
+        "organization": "COMNAVRESFOR\n13000 Chef Menteur Highway",
+        "location": "New Orleans, LA"
+    },
+    {
+        "system_name": "POLK-ASBN.ARMY.MIL",
+        "organization": "Fort Polk\nArmy Information Systems Command (USAISC)",
+        "location": "Fort Polk, LA"
+    },
+    {
+        "system_name": "SDS-NEWORLA.NAVY.MIL",
+        "organization": "Navy Regional Data Automation Center (NARDAC)",
+        "location": "New Orleans, LA"
+    },
+    {
+        "system_name": "LORING-GW.AF.MIL",
+        "organization": "Loring Air Force Base\n2192nd Communications Squadron (CS/XPI)",
+        "location": "Limestone, ME"
+    },
+    {
+        "system_name": "ABERDEEN-ASATMS.ARMY.MIL",
+        "organization": "Aberdeen Proving Grounds",
+        "location": "Aberdeen, MD"
+    },
+    {
+        "system_name": "ABERDEEN-IGNET2.ARMY.MIL",
+        "organization": "Aberdeen Proving Grounds\nTest and Evaluation Command (TECOM)",
+        "location": "Aberdeen, MD"
+    },
+    {
+        "system_name": "ADELPHI-GW1.ARMY.MIL",
+        "organization": "Naval Surface Weapons Center",
+        "location": "Silver Springs, MD"
+    },
+    {
+        "system_name": "ANDREWS.MT.DDN.MIL",
+        "organization": "Andrews Air Force Base\nMateriel Airlift Command",
+        "location": "Camp Springs, MD"
+    },
+    {
+        "system_name": "ANDREWS2-GW.AF.MIL",
+        "organization": "2045CG/SCLUC\nAndrews Air Force Base",
+        "location": "Camp Springs, MD"
+    },
+    {
+        "system_name": "ANNAPOLIS-BUMED.NAVY.MIL",
+        "organization": "Naval Medical Clinic",
+        "location": "Annapolis, MD"
+    },
+    {
+        "system_name": "APG-EMH2.ARMY.MIL",
+        "organization": "Aberdeen Proving Ground",
+        "location": "Aberdeen, MD"
+    },
+    {
+        "system_name": "APG-GRL-GW2.ARMY.MIL",
+        "organization": "Aberdeen Proving Ground\nArmy Ballistic Research Laboratory (BRL)",
+        "location": "Aberdeen, MD"
+    },
+    {
+        "system_name": "BMILANDW.DDN.MIL",
+        "organization": "89CG/SCLUC",
+        "location": "ANDREWS Air Force Base, MD"
+    },
+    {
+        "system_name": "BUMEDNMDSC-GW.NAVY.MIL",
+        "organization": "Naval Medical Data Services Center",
+        "location": "Bethesda, MD"
+    },
+    {
+        "system_name": "CARDEROCK.MT.DDN.MIL",
+        "organization": "David Taylor Naval Ship Research and Development Center",
+        "location": "Bethesda, MD"
+    },
+    {
+        "system_name": "CDBF-PAX.NAVY.MIL",
+        "organization": "Patuxent River Naval Air Station\nMeasure Central Database Facility (CDBF)",
+        "location": "Lexington Park, MD"
+    },
+    {
+        "system_name": "CRDEC-GW1.APGEA.ARMY.MIL",
+        "organization": "Aberdeen Proving Grounds\nUSACRDEC\nArmy Information Systems Command (USAISC)",
+        "location": "Aberdeen, MD"
+    },
+    {
+        "system_name": "CRDEC-GW2.ARMY.MIL",
+        "organization": "Army Information Systems Command",
+        "location": "Aberdeen Proving Grounds, MD"
+    },
+    {
+        "system_name": "CRMC-IPR.DDN.MIL",
+        "organization": "CDRUSAISC",
+        "location": "MD"
+    },
+    {
+        "system_name": "CRSC.DDN.MIL",
+        "organization": "CDRUSAISC",
+        "location": "FT Ritchie, MD"
+    },
+    {
+        "system_name": "DETR-IP-GW.DDN.MIL",
+        "organization": "Fort Detrick\nArmy Information Systems Command (USAISC)",
+        "location": "Frederick, MD"
+    },
+    {
+        "system_name": "DETRICK-HSC.ARMY.MIL",
+        "organization": "Fort Detrick",
+        "location": "Frederick, MD"
+    },
+    {
+        "system_name": "DIS.DLANET.DLA.MIL",
+        "organization": "Defense Investigative Service (DIS)\nHolabird Industrial Park",
+        "location": "Baltimore, MD"
+    },
+    {
+        "system_name": "DOCKMASTER.NCSC.MIL",
+        "organization": "The National Computer Security Center\n911 Elkridge Landing Road",
+        "location": "Linthicum, MD"
+    },
+    {
+        "system_name": "ECRAAA.ARMY.MIL",
+        "organization": "Army Audit Agency East Central Region (ECRAAA)\n7526 Connelley Drive\nSuite J",
+        "location": "Hanover, MD"
+    },
+    {
+        "system_name": "EKMS2.SDNS.MIL",
+        "organization": "KEY MANAGEMENT FACILITY",
+        "location": "MD"
+    },
+    {
+        "system_name": "FTDETRCK-GW1.ARMY.MIL",
+        "organization": "DIRUSAISC",
+        "location": "Ft. Detrick, MD"
+    },
+    {
+        "system_name": "FTMEADE-ACIRS.ARMY.MIL",
+        "organization": "Commander Army Information Systems Command-Cidc\n1st Region",
+        "location": "Fort Meade, MD"
+    },
+    {
+        "system_name": "FTMEADE-CLAIMS.ARMY.MIL",
+        "organization": "Army Claims Service",
+        "location": "Fort Meade, MD"
+    },
+    {
+        "system_name": "FTMEADE-GW1.ARMY.MIL",
+        "organization": "Commander Army Information Systems Command",
+        "location": "Fort Meade, MD"
+    },
+    {
+        "system_name": "FTMEADE-IGNET2.ARMY.MIL",
+        "organization": "Fort George G. Meade\nFirst Army",
+        "location": "Fort George G. Meade, MD"
+    },
+    {
+        "system_name": "HCCHE1-GW.NAVY.MIL",
+        "organization": "Naval Telecommunications Systems IC",
+        "location": "Cheltenham, MD"
+    },
+    {
+        "system_name": "HOLBRD-ACIRS-GW.ARMY.MIL",
+        "organization": "Fort Holobird\nArmy Information Services Command (USAISC-CIDC)",
+        "location": "Baltimore, MD"
+    },
+    {
+        "system_name": "LINTHICUM.MT.DDN.MIL",
+        "organization": "National Computer Security Center",
+        "location": "Linthicum, MD"
+    },
+    {
+        "system_name": "MEADE-TCACCIS.ARMY.MIL",
+        "organization": "Fort Meade\nDirector of Logistics",
+        "location": "Fort Meade, MD"
+    },
+    {
+        "system_name": "NADN-NET-GW.NAVY.MIL",
+        "organization": "United States Naval Academy\nWard Hall",
+        "location": "Annapolis, MD"
+    },
+    {
+        "system_name": "NATC-CSDRD.NAVY.MIL",
+        "organization": "Patuxent River Naval Air Station\nNaval Air Test Center - Computer",
+        "location": "Patuxent River, MD"
+    },
+    {
+        "system_name": "NCCS-STI-GW.NAVY.MIL",
+        "organization": "NAVELEXSYSENGACT",
+        "location": "ST Inigoes, MD"
+    },
+    {
+        "system_name": "NSWC-WO.NAVY.MIL",
+        "organization": "Naval Surface Warfare Center",
+        "location": "Silver Spring, MD"
+    },
+    {
+        "system_name": "PATNAT.NAVY.MIL",
+        "organization": "Patuxent River Naval Air Station",
+        "location": "Lexington Park, MD"
+    },
+    {
+        "system_name": "PATNAT.NAVY.MIL",
+        "organization": "Patuxent River Naval Air Station",
+        "location": "Lexington Park, MD"
+    },
+    {
+        "system_name": "PATXNTRV-NALCCOIS.NAVY.MIL",
+        "organization": "NAVAL AVIATION DEPOT OPS CTR",
+        "location": "MD"
+    },
+    {
+        "system_name": "RITCHIE-GW1.ARMY.MIL",
+        "organization": "Telecommunications Center",
+        "location": "Fort Ritchie, MD"
+    },
+    {
+        "system_name": "RITCHIE-MB.DDN.MIL",
+        "organization": "1111th SIGBN",
+        "location": "Ft Ritchie, MD"
+    },
+    {
+        "system_name": "RITCHIE2.MT.DDN.MIL",
+        "organization": "Fort Ritchie\nArmy Information Systems Command (USAISC)",
+        "location": "Cascade, MD"
+    },
+    {
+        "system_name": "ST-INIGOES.MT.DDN.MIL",
+        "organization": "Naval Electronics Systems Engineering",
+        "location": "St. Inigoes, MD"
+    },
+    {
+        "system_name": "USNA.USNA.NAVY.MIL",
+        "organization": "Naval Academy",
+        "location": "Annapolis, MD"
+    },
+    {
+        "system_name": "WASHDEVA.NAVY.MIL",
+        "organization": "Federal Data Corporation",
+        "location": "Bethesda, MD"
+    },
+    {
+        "system_name": "BUTTERFLY.DDN.MIL",
+        "organization": "BBN Communications Corporation",
+        "location": "Cambridge, MA"
+    },
+    {
+        "system_name": "DEVENS-ASBN.ARMY.MIL",
+        "organization": "Fort Devens\nArmy Information Systems Command (USAISC)",
+        "location": "Fort Devens, MA"
+    },
+    {
+        "system_name": "DEVENS-TCACCIS.ARMY.MIL",
+        "organization": "Fort Devens\nTransportation Office",
+        "location": "Fort Devens, MA"
+    },
+    {
+        "system_name": "FTDEVENS-AMEDD.ARMY.MIL",
+        "organization": "Fort Devens",
+        "location": "Fort Devens, MA"
+    },
+    {
+        "system_name": "FTDEVENS-GW1.ARMY.MIL",
+        "organization": "Commander Army Information Systems Command",
+        "location": "Fort Devens, MA"
+    },
+    {
+        "system_name": "FTDEVENS-IGNET2.ARMY.MIL",
+        "organization": "Fort Devens\nUSAG",
+        "location": "Ayer, MA"
+    },
+    {
+        "system_name": "GTE-EDCD2.DDN.MIL",
+        "organization": "GTE-EDCD",
+        "location": "MA"
+    },
+    {
+        "system_name": "GW1.HANSCOM.AF.MIL",
+        "organization": "Hanscom Air Force Base",
+        "location": "Bedford, MA"
+    },
+    {
+        "system_name": "HANSCOM.MT.DDN.MIL",
+        "organization": "Hanscom Air Force Base",
+        "location": "Hanscom Air Force Base, MA"
+    },
+    {
+        "system_name": "NATICK-EMH1.ARMY.MIL",
+        "organization": "STRNC-M",
+        "location": "Natick, MA"
+    },
+    {
+        "system_name": "NATICK-ILCN.ARMY.MIL",
+        "organization": "Research Institute of Environmental Medicine",
+        "location": "Natick, MA"
+    },
+    {
+        "system_name": "WATERTOWN-EMH1.ARMY.MIL",
+        "organization": "Army Materiel Command\nTechnology Laboratory",
+        "location": "Watertown, MA"
+    },
+    {
+        "system_name": "X25TEST.DISA.MIL",
+        "organization": "BBN Communications Corporation",
+        "location": "Cambridge, MA"
+    },
+    {
+        "system_name": "BATTLECREEK.MT.DDN.MIL",
+        "organization": "Defense Logistics Service Center",
+        "location": "Battle Creek, MI"
+    },
+    {
+        "system_name": "DLSC1.DLANET.DLA.MIL",
+        "organization": "Defense Logistics Service Center (DLSC-ZT)",
+        "location": "Battle Creek, MI"
+    },
+    {
+        "system_name": "DLSC3.DLSC.DLA.MIL",
+        "organization": "Defense Logistics Support Center (DLSC)",
+        "location": "Battle Creek, MI"
+    },
+    {
+        "system_name": "EDCARS-CA.AF.MIL",
+        "organization": "Headquarters CASC/CBSC",
+        "location": "Battle Creek, MI"
+    },
+    {
+        "system_name": "GW.DLSC.DLA.MIL",
+        "organization": "Defense Logistics Support Center (DLSC)",
+        "location": "Battle Creek, MI"
+    },
+    {
+        "system_name": "TACOM-EMH1.ARMY.MIL",
+        "organization": "Army Tank Automotive Comand (TACOM)",
+        "location": "Warren, MI"
+    },
+    {
+        "system_name": "TACOM-EMH3.ARMY.MIL",
+        "organization": "Detroit Arsenal\nArmy Tank-Automotive Command (TACOM)",
+        "location": "Warren, MI"
+    },
+    {
+        "system_name": "WARREN-GW1.ARMY.MIL",
+        "organization": "USAISC ASQNC-TAC-DLR",
+        "location": "TACOM-Warren, MI"
+    },
+    {
+        "system_name": "WURTSMITH-AM1.AF.MIL",
+        "organization": "379 CES/DEI",
+        "location": "MI"
+    },
+    {
+        "system_name": "WURTSMITH-GW.AF.MIL",
+        "organization": "Wurtsmith Air Force Base\n2030th Communications Squadron (CS/DOA)",
+        "location": "Oscoda, MI"
+    },
+    {
+        "system_name": "CPRIPLEY-ASBN.ARMY.MIL",
+        "organization": "MOBILIZATION PLANNER\nMNAG-CRC-M",
+        "location": "MN"
+    },
+    {
+        "system_name": "CAMNET-COLUMBUS-R02.AF.MIL",
+        "organization": "Columbus Air Force Base\nAir Force Commissary Detachment 206/FCS\n(AFCOMS)\nAdministration Office",
+        "location": "Columbus, MS"
+    },
+    {
+        "system_name": "COLUMBUS-GW.AF.MIL",
+        "organization": "Columbus Air Force Base\n1948 Communications Squadron/XP",
+        "location": "Columbus, MS"
+    },
+    {
+        "system_name": "CPSHELBY-TCACCIS.ARMY.MIL",
+        "organization": "Commander Training Site",
+        "location": "Camp Shelby, MS"
+    },
+    {
+        "system_name": "KEESLER1-GW.AF.MIL",
+        "organization": "Keesler Air Force Base\n2052nd Communications Group (CG/DO)",
+        "location": "Biloxi, MS"
+    },
+    {
+        "system_name": "NOO.NAVY.MIL",
+        "organization": "Naval Oceanographic Office",
+        "location": "MS"
+    },
+    {
+        "system_name": "DMAAC-PHIV.DMA.MIL",
+        "organization": "DMAAC/TSC\nDMAAC/TSC\n3200 South Second Street",
+        "location": "St. Louis,  MO"
+    },
+    {
+        "system_name": "FTLNRDWD-AMEDD.ARMY.MIL",
+        "organization": "Fort Leonard Wood",
+        "location": "Rolla, MO"
+    },
+    {
+        "system_name": "FTLNRDWD-GW1.ARMY.MIL",
+        "organization": "Commander Army Information Systems Command",
+        "location": "Ft Leonardwood, MO"
+    },
+    {
+        "system_name": "GW.KCT.MC.MIL",
+        "organization": "MARINE CORPS SUPPORT ACTIVITY (MCDN-KCT)",
+        "location": "KANSAS CITY, MO"
+    },
+    {
+        "system_name": "MWRAAA.ARMY.MIL",
+        "organization": "Army Audit Agency",
+        "location": "St. Louis, MO"
+    },
+    {
+        "system_name": "SAINT-LOUIS2.MT.DDN.MIL",
+        "organization": "Army Information Systems Command (USAISC)",
+        "location": "St. Louis, MO"
+    },
+    {
+        "system_name": "ST-LOUIS-EMH3.ARMY.MIL",
+        "organization": "Army Aviation Systems Command",
+        "location": "St. Louis, MO"
+    },
+    {
+        "system_name": "ST-LOUIS-GW.ARMY.MIL",
+        "organization": "Army Information Systems Command (USAISC)\n(AVS/TROS)",
+        "location": "St. Louis, MO"
+    },
+    {
+        "system_name": "STLOUIS-ASBN.ARMY.MIL",
+        "organization": "Director Army Information Systems Command",
+        "location": "St Louis, MO"
+    },
+    {
+        "system_name": "STLOUIS-GW1.ARMY.MIL",
+        "organization": "DIR USAISC-AVS-TROS",
+        "location": "St Louis, MO"
+    },
+    {
+        "system_name": "STLOUIS-GW2.ARMY.MIL",
+        "organization": "Director Army Information Systems Command AVS-TROS",
+        "location": "St Louis, MO"
+    },
+    {
+        "system_name": "WHITEMAN-GW.AF.MIL",
+        "organization": "Whiteman Air Force Base\n2154th Communications Squadron (CS/DOA)",
+        "location": "Sedalia, MO"
+    },
+    {
+        "system_name": "MALMSTROM-GW.AF.MIL",
+        "organization": "Malmstrom Air Force Base\n2153rd Communications Squadron (CS/XP)",
+        "location": "Great Falls, MT"
+    },
+    {
+        "system_name": "MALMSTROM.MT.DDN.MIL",
+        "organization": "Malmstrom Air Force Base\n341rst SMW/SCX",
+        "location": "Great Falls, MT"
+    },
+    {
+        "system_name": "ACFP-DOP.AF.MIL",
+        "organization": "Offutt Air Force Base\nAir Force Global Weather Central (AFGWC/DOP)",
+        "location": "Omaha, NE"
+    },
+    {
+        "system_name": "MASMS.AF.MIL",
+        "organization": "Offutt Air Force Base\nStrategic Air Command\n(SAC/DOTOS)",
+        "location": "Omaha, NE"
+    },
+    {
+        "system_name": "OFFUTT.MT.DDN.MIL",
+        "organization": "Offutt Air Force Base\nStrategic Air Command (SAC/SCOKU)",
+        "location": "Omaha, NE"
+    },
+    {
+        "system_name": "OFFUTT2-GW.AF.MIL",
+        "organization": "1853CMSQ/SCLUH",
+        "location": "NE"
+    },
+    {
+        "system_name": "RDM-LINK-GW.EUCOM.MIL",
+        "organization": "MTMC\nRotterdam",
+        "location": "NETHERLANDS"
+    },
+    {
+        "system_name": "ROTTERDAM.MT.DDN.MIL",
+        "organization": "128th Signal Detachment\nMilitary Traffic Management Command (MTMC/TTCE)",
+        "location": "NETHERLANDS"
+    },
+    {
+        "system_name": "SOESTERBERG-GW.AF.MIL",
+        "organization": "Soesterberg Air Base\nDetachment 3\n2005 CW/LGU",
+        "location": "NETHERLANDS"
+    },
+    {
+        "system_name": "CARSON-GW.ARMY.MIL",
+        "organization": "USPFO-NV",
+        "location": "Carson City, NV"
+    },
+    {
+        "system_name": "NELLIS-GW.AF.MIL",
+        "organization": "Nellis Air Force Base\n2069th Communications Group/DOA",
+        "location": "Las Vegas, NV"
+    },
+    {
+        "system_name": "SUBMEPT.NAVY.MIL",
+        "organization": "Portsmouth Naval Shipyard\nSubmarine Maintenance Engineering\nPlanning\nand Procurement\n(SUBMEPP)",
+        "location": "Portsmouth, NH"
+    },
+    {
+        "system_name": "BAYONNE-GW1.ARMY.MIL",
+        "organization": "Fort Monmouth",
+        "location": "Red Bank, NJ"
+    },
+    {
+        "system_name": "DIX-ASBN.ARMY.MIL",
+        "organization": "USATC",
+        "location": "Fort Dix, NJ"
+    },
+    {
+        "system_name": "DIX-TCACCIS.ARMY.MIL",
+        "organization": "Fort Dix\nTransportation Office",
+        "location": "Wrightstown, NJ"
+    },
+    {
+        "system_name": "DOVERNJ.MT.DDN.MIL",
+        "organization": "Army Armament Research and Development Command",
+        "location": "Dover, NJ"
+    },
+    {
+        "system_name": "FTDIX-GW1.ARMY.MIL",
+        "organization": "Commander Army Information Systems Command",
+        "location": "Fort Dix, NJ"
+    },
+    {
+        "system_name": "FTMONMTH-AMEDD.ARMY.MIL",
+        "organization": "Fort Monmouth\nArmy MEDDAC",
+        "location": "Red Bank, NJ"
+    },
+    {
+        "system_name": "FTMONMTH-GW2.ARMY.MIL",
+        "organization": "Army Information Systems Command",
+        "location": "Fort Monmouth, NJ"
+    },
+    {
+        "system_name": "FTMONMTH-IGNET.ARMY.MIL",
+        "organization": "Fort Monmouth\nArmy Information Systems Command (USAISC)",
+        "location": "Red Bank, NJ"
+    },
+    {
+        "system_name": "GW.PICA.ARMY.MIL",
+        "organization": "Army Armament Research Development and Engineering Center",
+        "location": "Picatinny Aresenal, NJ"
+    },
+    {
+        "system_name": "LAKEHURST2.NAVY.MIL",
+        "organization": "Naval Air Engineering Center\nCode 133WD",
+        "location": "Lakehurst, NJ"
+    },
+    {
+        "system_name": "MEMOTC.DLA.MIL",
+        "organization": "Astro Space Division\nTrailer 6c",
+        "location": "East Windsor, NJ"
+    },
+    {
+        "system_name": "MONMOUTH-EMH2.ARMY.MIL",
+        "organization": "Fort Monmouth\nArmy Communications Electronics Command",
+        "location": "Fort Monmouth, NJ"
+    },
+    {
+        "system_name": "MONMOUTH.MT.DDN.MIL",
+        "organization": "Fort Monmouth\nArmy Information Systems Command (USAISC)\nCommunications Electronics Command (CECOM)",
+        "location": "Fort Monmouth, NJ"
+    },
+    {
+        "system_name": "NAVWEPSTAEARLE.NAVY.MIL",
+        "organization": "Earle Naval Weapons Station",
+        "location": "Colts Neck, NJ"
+    },
+    {
+        "system_name": "PICATINNY-GW1.ARMY.MIL",
+        "organization": "Army Armament Research Development and Engineering Center",
+        "location": "Picatinny Arsenal, NJ"
+    },
+    {
+        "system_name": "AFOTEC2.AF.MIL",
+        "organization": "Kirtland Air Force Base\nAir Force Operational Test and Evaluation Center\n(AFOTEC)",
+        "location": "Albuquerque, NM"
+    },
+    {
+        "system_name": "CANNON-GW.AF.MIL",
+        "organization": "Cannon Air Force Base\n27CS/SCL",
+        "location": "Cannon AFB, NM"
+    },
+    {
+        "system_name": "DDNVX2.AFWL.AF.MIL",
+        "organization": "Kirtland Air Force Base\nAir Force Weapons Laboratory (AFWL)",
+        "location": "Albuquerque, NM"
+    },
+    {
+        "system_name": "KIRTLAND-GW.AF.MIL",
+        "organization": "Kirtland Air Force Base\n1606 ABW/SCP",
+        "location": "Albuquerque, NM"
+    },
+    {
+        "system_name": "KIRTLAND2.MT.DDN.MIL",
+        "organization": "Kirtland Air Force Base\n1960 Information Systems Squadron/XPP",
+        "location": "Albuquerque, NM"
+    },
+    {
+        "system_name": "WHITSNDS-IGNET.ARMY.MIL",
+        "organization": "White Sands Missile Range",
+        "location": "White Sands Missile Range, NM"
+    },
+    {
+        "system_name": "WSMR-GW1.ARMY.MIL",
+        "organization": "White Sands Missile Range",
+        "location": "Las Cruces, NM"
+    },
+    {
+        "system_name": "APDS-II-OS095.AF.MIL",
+        "organization": "7275 ABG/DPMD",
+        "location": "APO New York, NY"
+    },
+    {
+        "system_name": "BERLIN-GW1.ARMY.MIL",
+        "organization": "CDR USMCA",
+        "location": "APO New York, NY"
+    },
+    {
+        "system_name": "CHIEVRES-GW1.ARMY.MIL",
+        "organization": "CDR 128TH SIG CO",
+        "location": "APO NEW YORK, NY"
+    },
+    {
+        "system_name": "COMSTATE-EUR-TST.DDN.MIL",
+        "organization": "DCA-EUROPE",
+        "location": "APO New York, NY"
+    },
+    {
+        "system_name": "DARMSTADT-GW1.ARMY.MIL",
+        "organization": "CDOIM DARMSTADT/ASQE-X-L-B-D-FA",
+        "location": "APO New York, NY"
+    },
+    {
+        "system_name": "DRUM-EMH1.ARMY.MIL",
+        "organization": "Fort Drum\nArmy Information Systems Command (USAISC)",
+        "location": "Watertown, NY"
+    },
+    {
+        "system_name": "FLX-LINK.DLA.MIL",
+        "organization": "Headquarters Defsubsrgn Felixstowe\nDsof",
+        "location": "APO New York, NY"
+    },
+    {
+        "system_name": "FTDRUM-AMEDD.ARMY.MIL",
+        "organization": "Fort Drum\nArmy MEDDAC",
+        "location": "Fort Drum, NY"
+    },
+    {
+        "system_name": "FTDRUM-GW1.ARMY.MIL",
+        "organization": "DIR\nUSAISC",
+        "location": "NY"
+    },
+    {
+        "system_name": "GRIFFISS-GW.AF.MIL",
+        "organization": "Griffiss Air Force Base\nRome Air Developement Center (RADC/SCE)",
+        "location": "Rome, NY"
+    },
+    {
+        "system_name": "KAISERSL.DSRE.DLA.MIL",
+        "organization": "HQ DEFENSE SUBSITENCE REGION KAISERSLAUTERN\nAM DER WIELERBACH BRUECKE\nKAISERSLAUTERN",
+        "location": "APO New York, NY"
+    },
+    {
+        "system_name": "KSRSLTRN-GW1.ARMY.MIL",
+        "organization": "Community Directorate of Information Management\nKleber Kaserne\nKAISERSLAUTERN",
+        "location": "APO New York, NY"
+    },
+    {
+        "system_name": "LIVORNO-GW1.ARMY.MIL",
+        "organization": "59TH SIGCO/ASQE-M-G",
+        "location": "APO New York, NY"
+    },
+    {
+        "system_name": "OBERURSL-TCACCIS.ARMY.MIL",
+        "organization": "Commander 1st Transportation Movement Control Agency",
+        "location": "APO New York, NY"
+    },
+    {
+        "system_name": "PIRMASENS-AMEDD.ARMY.MIL",
+        "organization": "USAMMCE (EUROPE)",
+        "location": "APO New York, NY"
+    },
+    {
+        "system_name": "PIRMASENS-GW1.ARMY.MIL",
+        "organization": "HHD 73rd Signal Battalion",
+        "location": "APO New York, NY"
+    },
+    {
+        "system_name": "RAMSTEIN2-GW.AF.MIL",
+        "organization": "1964 CG/LGU",
+        "location": "APO New York, NY"
+    },
+    {
+        "system_name": "ROTA-MEASURE.NAVY.MIL",
+        "organization": "NAVCALAB",
+        "location": "FPO New York, NY"
+    },
+    {
+        "system_name": "ROTTERDM-GATEWAY.ARMY.MIL",
+        "organization": "Headquarters MTMC EUROPE\nMTEUR-IMO\nLylantise Plein\nRotterdam",
+        "location": "APO, New York"
+    },
+    {
+        "system_name": "SENECA-GW1.ARMY.MIL",
+        "organization": "USAISC\nASQNC-DE-ER",
+        "location": "ROMULUS, NY"
+    },
+    {
+        "system_name": "SIGONELLA-MEASURE.NAVY.MIL",
+        "organization": "Navy Calibration Laboratory",
+        "location": "FPO New York, NY"
+    },
+    {
+        "system_name": "VICENZA-GW1.ARMY.MIL",
+        "organization": "Commander\n54th Signal Command",
+        "location": "APO New York, NY"
+    },
+    {
+        "system_name": "WATERVLT-GW1.ARMY.MIL",
+        "organization": "Army Information Systems Command (USAISC)",
+        "location": "Watervliet Arsenal, NY"
+    },
+    {
+        "system_name": "WESTPOINT-GW.ARMY.MIL",
+        "organization": "Army Information Systems Command\nU.S. Military Academy",
+        "location": "West Point, NY"
+    },
+    {
+        "system_name": "WPT-AMEDD.ARMY.MIL",
+        "organization": "United States Military Academy (West Point)",
+        "location": "West Point, NY"
+    },
+    {
+        "system_name": "ARO-GW.ARMY.MIL",
+        "organization": "Research Triangle Park",
+        "location": "Durham, NC"
+    },
+    {
+        "system_name": "BRAGG-EMH1.ARMY.MIL",
+        "organization": "Fort Bragg\nArmy Information Systems Command (USAISC)",
+        "location": "Fayetteville, NC"
+    },
+    {
+        "system_name": "BRAGG.MT.DDN.MIL",
+        "organization": "Fort Bragg\nArmy Information Systems Command (USAISC)\nSRI International Field Office",
+        "location": "Fayetteville, NC"
+    },
+    {
+        "system_name": "CPTMAS.NAVY.MIL",
+        "organization": "Regional Automation Services Center\nMCAS",
+        "location": "Cherry Point, NC"
+    },
+    {
+        "system_name": "FTBRAGG-ASATMS.ARMY.MIL",
+        "organization": "Fort Bragg\nArmy Information Systems Command (USAISC)\nJohn F. Kennedy Special War Center and School",
+        "location": "Fayetteville, NC"
+    },
+    {
+        "system_name": "FTBRAGG-GW.ARMY.MIL",
+        "organization": "1127th Signal Battalion",
+        "location": "Fayetteville, NC"
+    },
+    {
+        "system_name": "NARDAC-CHERRYPT.NAVY.MIL",
+        "organization": "Cherry Point Marine Corps Air Station\nNavy Regional Data Automation Center (NARDAC)",
+        "location": "Cherry Point, NC"
+    },
+    {
+        "system_name": "RALEIGH-NGNET.ARMY.MIL",
+        "organization": "NC ARNG\nUSPFONC-DP",
+        "location": "Raleigh, NC"
+    },
+    {
+        "system_name": "SEYMOURJOHNSON-GW.AF.MIL",
+        "organization": "Seymour Johnson Air Force Base\n2012nd Communications Squadron (CS/XP)",
+        "location": "Goldsboro, NC"
+    },
+    {
+        "system_name": "SPLICE-CHERRYPT.NAVY.MIL",
+        "organization": "Cherry Point Marine Corps Air Station",
+        "location": "Cherry Point, NC"
+    },
+    {
+        "system_name": "VAX.NAVY.MIL",
+        "organization": "MCAS CHERRY POINT",
+        "location": "NC"
+    },
+    {
+        "system_name": "GRAND-FORKS.MT.DDN.MIL",
+        "organization": "Grand Forks Air Force Base\n2152nd Communications Station",
+        "location": "Grand Forks, ND"
+    },
+    {
+        "system_name": "MINOT-GW.AF.MIL",
+        "organization": "Minot Air Force Base\n2150 Communications Squadron/XP",
+        "location": "Minot, ND"
+    },
+    {
+        "system_name": "OSLO-AM1.AF.MIL",
+        "organization": "Air Force Commissary - AFCOMS\nDetachment OL ZO/FCS",
+        "location": "NORWAY"
+    },
+    {
+        "system_name": "ADAWC.WPAFB.AF.MIL",
+        "organization": "Wright-Patterson Air Force Base\nAir Force Logistics Command (AFLC)\nAeronautical Systems Divisions/SIOL",
+        "location": "Dayton, OH"
+    },
+    {
+        "system_name": "AMIS.AF.MIL",
+        "organization": "Wright-Patterson Air Force Base\nAir Force Systems Command\nAeronautical Systems Division/SCO",
+        "location": "Dayton, OH"
+    },
+    {
+        "system_name": "BRATENHL-DFAS.NAVY.MIL",
+        "organization": "DFAS CLEVELAND - BRATENAHL ANNEX",
+        "location": "Bratenahl, OH"
+    },
+    {
+        "system_name": "COLUMBUS.MMT.DDN.MIL",
+        "organization": "Defense Logistics Agency (DLA)\nDefense System Automation Center (DSAC-ZS)",
+        "location": "Columbus, OH"
+    },
+    {
+        "system_name": "DAAS.DLA.MIL",
+        "organization": "Defense Electronics Supply Center\nDefense Electronics Supply Center (DESC)",
+        "location": "Dayton, OH"
+    },
+    {
+        "system_name": "DISG-WP-GW.AF.MIL",
+        "organization": "Wright-Patterson Air Force Base\nAir Force Logistics Command (AFLC LMSC/SXSN)",
+        "location": "Dayton, OH"
+    },
+    {
+        "system_name": "EDCARS-WP.AF.MIL",
+        "organization": "Wright-Patterson Air Force Base\n2750 ABW/DAD",
+        "location": "Dayton, OH"
+    },
+    {
+        "system_name": "GW.AFIT.AF.MIL",
+        "organization": "Wright-Patterson Air Force Base",
+        "location": "Dayton, OH"
+    },
+    {
+        "system_name": "GW.DCSC.DLA.MIL",
+        "organization": "Defense Logistics Agency (DLA/DCSC)\nDefense System Automation Center (DSAC-ZS)",
+        "location": "Columbus, OH"
+    },
+    {
+        "system_name": "GW.DSAC.DLA.MIL",
+        "organization": "Defense Logistics Agency (DLA)\nDefense System Automation Center (DSAC)",
+        "location": "Columbus, OH"
+    },
+    {
+        "system_name": "GW2.DAAS.DLA.MIL",
+        "organization": "Defense Automatic Addressing Sytems Office",
+        "location": "Dayton, OH"
+    },
+    {
+        "system_name": "HQ1.AF.MIL",
+        "organization": "Wright-Patterson Air Force Base",
+        "location": "Dayton, OH"
+    },
+    {
+        "system_name": "LOGNET2-GW.HQ.AFLC.AF.MIL",
+        "organization": "Wright-Patterson Air Force Base",
+        "location": "Dayton, OH"
+    },
+    {
+        "system_name": "MODASA.AF.MIL",
+        "organization": "Wright-Patterson Air Force Base\nHeadquarters\nAir Force Logistics Command (AFLC/MME-2)",
+        "location": "Dayton, OH"
+    },
+    {
+        "system_name": "NEWARK.MT.DDN.MIL",
+        "organization": "Newark Air Force Base\nHeadquarters AGMC/SCS",
+        "location": "Newark, OH"
+    },
+    {
+        "system_name": "ROUTER-676A.WPAFB.AF.MIL",
+        "organization": "Wright-Patterson Air Force Base\nAir Force Logistics Command (AFLC)\nAeronautical Systems Division/SCOSI",
+        "location": "Dayton, OH"
+    },
+    {
+        "system_name": "ROUTER-676B.WPAFB.AF.MIL",
+        "organization": "Wright-Patterson Air Force Base\nAir Force Logistics Command (AFLC)\nAeronautical Systems Division/SCOSI",
+        "location": "Dayton, OH"
+    },
+    {
+        "system_name": "SDS-FEPCLEV.NAVY.MIL",
+        "organization": "Consolidated Data Center",
+        "location": "Cleveland, OH"
+    },
+    {
+        "system_name": "SNAG-WP.AF.MIL",
+        "organization": "Wright-Patterson Air Force Base",
+        "location": "Dayton, OH"
+    },
+    {
+        "system_name": "WPAFB-JALCF.AF.MIL",
+        "organization": "Wright-Patterson Air Force Base\nAir Force Logistics Command (AFLC)\nAeronautical Systems Divisions/SIOL",
+        "location": "Dayton, OH"
+    },
+    {
+        "system_name": "WPAFB2-GW.AF.MIL",
+        "organization": "Wright-Patterson Air Force Base\nHeadquarters ASD/SCPI",
+        "location": "Dayton, OH"
+    },
+    {
+        "system_name": "WRIGHTPAT.MT.DDN.MIL",
+        "organization": "Wright-Patterson Air Force Base\nAeronautical Systems Division/ADOS",
+        "location": "Dayton, OH"
+    },
+    {
+        "system_name": "WRIGHTPAT3.MT.DDN.MIL",
+        "organization": "Wright-Patterson Air Force Base\nAir Force Logistics Command (AFLC)\nAeronautical Systems Division/ADOS\nComputer Center",
+        "location": "Dayton, OH"
+    },
+    {
+        "system_name": "AFLC-OC-AISG1.AF.MIL",
+        "organization": "Tinker Air Force Base",
+        "location": "Oklahoma City, OK"
+    },
+    {
+        "system_name": "DISG-OC-GW.AF.MIL",
+        "organization": "Tinker Air Force Base\nOC-ALC/XRS",
+        "location": "Oklahoma City, OK"
+    },
+    {
+        "system_name": "DMMIS-OC.AF.MIL",
+        "organization": "Tinker Air Force Base\nOC-ALC/SISS",
+        "location": "Oklahoma City, OK"
+    },
+    {
+        "system_name": "FTSILL-AMEDD.ARMY.MIL",
+        "organization": "Fort Sill\nRACH HSUA-AMU",
+        "location": "Lawton, OK"
+    },
+    {
+        "system_name": "FTSILL-GW1.ARMY.MIL",
+        "organization": "Commander Army Infromation Systems Command",
+        "location": "Fort Sill, OK"
+    },
+    {
+        "system_name": "OCDIS01.OC.AFLC.AF.MIL",
+        "organization": "Tinker Air Force Base",
+        "location": "Oklahoma City, OK"
+    },
+    {
+        "system_name": "OKC-UNIX.AF.MIL",
+        "organization": "Tinker Air Force Base\nOC-ALC/MMECS",
+        "location": "Oklahoma City, OK"
+    },
+    {
+        "system_name": "OKLAHMCY-GW.ARMY.MIL",
+        "organization": "USPFO-OK",
+        "location": "Oklahoma City, OK"
+    },
+    {
+        "system_name": "REMIS-OC.AF.MIL",
+        "organization": "Tinker Air Force Base\nOC-ALC/SCCC",
+        "location": "Oklahoma City, OK"
+    },
+    {
+        "system_name": "SILL-EMH1.ARMY.MIL",
+        "organization": "Fort Sill",
+        "location": "Lawton, OK"
+    },
+    {
+        "system_name": "SILL.MT.DDN.MIL",
+        "organization": "Fort Sill\nArmy Information Systems Command (USAISC)",
+        "location": "Lawton, OK"
+    },
+    {
+        "system_name": "SNAG-OC.AF.MIL",
+        "organization": "Tinker Air Force Base\nOC-ALC/SC-2",
+        "location": "Oklahoma City, OK"
+    },
+    {
+        "system_name": "TINKER-PIV-1.AF.MIL",
+        "organization": "Tinker Air Force Base",
+        "location": "Oklahoma City, OK"
+    },
+    {
+        "system_name": "TINKER1-GW.AF.MIL",
+        "organization": "Tinker Air Force Base",
+        "location": "Oklahoma City, OK"
+    },
+    {
+        "system_name": "TINKERMDSS.AF.MIL",
+        "organization": "Tinker Air Force Base",
+        "location": "Oklahoma City, OK"
+    },
+    {
+        "system_name": "VANCE-GW.AF.MIL",
+        "organization": "Vance Air Force Base\n71 FTW/NW-SC",
+        "location": "Enid, OK"
+    },
+    {
+        "system_name": "APDS-II-OS094.AF.MIL",
+        "organization": "Howard Air Force Base",
+        "location": "PANAMA"
+    },
+    {
+        "system_name": "CLAYTON-IGNET.ARMY.MIL",
+        "organization": "Fort Clayton",
+        "location": "PANAMA"
+    },
+    {
+        "system_name": "FTCLAYTON-ONET.ARMY.MIL",
+        "organization": "Fort Clayton\nSCN",
+        "location": "PANAMA"
+    },
+    {
+        "system_name": "CCSU.NAVY.MIL",
+        "organization": "Naval Air Development Center - NADC",
+        "location": "Warminster, PA"
+    },
+    {
+        "system_name": "CHAMBERSBU-EMH2.ARMY.MIL",
+        "organization": "Letterkenny Army Depot\nDESCOM",
+        "location": "Chambersburg, PA"
+    },
+    {
+        "system_name": "CMBRSBRG-IGNET.ARMY.MIL",
+        "organization": "Letterkenny Army Depot\nArmy Information Systems Command (USAISC)",
+        "location": "Chambersburg, PA"
+    },
+    {
+        "system_name": "CRLSLBKS-GW1.ARMY.MIL",
+        "organization": "Commander Army Information System Comand",
+        "location": "Carlisle Barracks, PA"
+    },
+    {
+        "system_name": "DMADP.DMA.MIL",
+        "organization": "Defense Mapping Agency (DMA)",
+        "location": "Philadelphia, PA"
+    },
+    {
+        "system_name": "HCMEC1-GW.NAVY.MIL",
+        "organization": "SHIPS PARTS CONTROL CENTER",
+        "location": "PA"
+    },
+    {
+        "system_name": "INDIANTOWN-ASIMS.ARMY.MIL",
+        "organization": "Fort Indiantown Gap\nArmy Information Systems Command (USAISC)",
+        "location": "Lebanon, PA"
+    },
+    {
+        "system_name": "JOHNSVILLE.MT.DDN.MIL",
+        "organization": "Johnsville Naval Air Station\nNaval Air Development Center (NADC)",
+        "location": "Warminster, PA"
+    },
+    {
+        "system_name": "LETTERKENN-EMH2.ARMY.MIL",
+        "organization": "Army Information Systems Command (USAISC)",
+        "location": "Chambersburg, PA"
+    },
+    {
+        "system_name": "LTTRKNNY-GW2.ARMY.MIL",
+        "organization": "Director\nArmy Information Systems Comand",
+        "location": "Chambersburg, PA"
+    },
+    {
+        "system_name": "MCHFMS2.NAVY.MIL",
+        "organization": "Navy Ships Parts Control Center\n5450 Carlisle Pike",
+        "location": "Mechanicsburg, PA"
+    },
+    {
+        "system_name": "MCHFMS3.NAVY.MIL",
+        "organization": "Navy Ships Parts Control Center",
+        "location": "Mechanicsburg, PA"
+    },
+    {
+        "system_name": "MCHSPC.NAVY.MIL",
+        "organization": "Navy Ships Parts Control Center",
+        "location": "Mechanicsburgh, PA"
+    },
+    {
+        "system_name": "MECHANICSBURG.MT.DDN.MIL",
+        "organization": "Navy Ships Parts Control Center",
+        "location": "Mechanicsburg, PA"
+    },
+    {
+        "system_name": "NCAD-EMH13.ARMY.MIL",
+        "organization": "New Cumberland Army Depot (NCAD)\nArmy Security Assistnace Affairs",
+        "location": "New Cumberland, PA"
+    },
+    {
+        "system_name": "NCAD-GW1.ARMY.MIL",
+        "organization": "New Cumberland Army Depot",
+        "location": "New Cumberland, PA"
+    },
+    {
+        "system_name": "NCMBRLND-GW2.ARMY.MIL",
+        "organization": "Army Information Systems Command\n54",
+        "location": "PA"
+    },
+    {
+        "system_name": "NCPDS-PHILI2.NAVY.MIL",
+        "organization": "Philadelphia Naval Shipyard",
+        "location": "Philadelphia, PA"
+    },
+    {
+        "system_name": "NEW-CUMBER-EMH1.ARMY.MIL",
+        "organization": "Army Security Assistance Center (USASAC) (USASACMVS)",
+        "location": "New Cumberland, PA"
+    },
+    {
+        "system_name": "NEWCUMBERLND.MT.DDN.MIL",
+        "organization": "New Cumberland Army Depot",
+        "location": "New Cumberland, PA"
+    },
+    {
+        "system_name": "PHILADELPHIA.MT.DDN.MIL",
+        "organization": "Navy Aviation Supply Office",
+        "location": "Philadelphia, PA"
+    },
+    {
+        "system_name": "POE.PNSY.NAVY.MIL",
+        "organization": "Philadelphia Naval Shipyard",
+        "location": "Philadelphia, PA"
+    },
+    {
+        "system_name": "TOBY-GW1.ARMY.MIL",
+        "organization": "DIR USAISC ASQNC-DO-RP",
+        "location": "Tobyhanna Army Depot, PA"
+    },
+    {
+        "system_name": "TOBYHANNA.MT.DDN.MIL",
+        "organization": "Tobyhanna Army Depot",
+        "location": "Tobyhanna, PA"
+    },
+    {
+        "system_name": "YORK-DLACOLAN.DLA.MIL",
+        "organization": "BMY Harsco Division",
+        "location": "Bair, PA"
+    },
+    {
+        "system_name": "AMRMS-CTF73.NAVY.MIL",
+        "organization": "Subic Bay Naval Base (WMMS-CTF73)\nNaval Service Group - Western Pacific",
+        "location": "PHILIPPINES"
+    },
+    {
+        "system_name": "IDA-FMS-SUBIC.NAVY.MIL",
+        "organization": "Subic Bay Naval Air Station\nNaval Electronic Engineering Activity",
+        "location": "PHILIPPINES"
+    },
+    {
+        "system_name": "NCPDS-SUBIC1.NAVY.MIL",
+        "organization": "Subic Bay Naval Air Station\nCivilian Personnel Office",
+        "location": "PHILIPPINES"
+    },
+    {
+        "system_name": "NCPDS-SUBIC2.NAVY.MIL",
+        "organization": "Subic Bay Naval Air Station\nCivilian Personnel Office",
+        "location": "PHILIPPINES"
+    },
+    {
+        "system_name": "NCPDS-SUBIC3.NAVY.MIL",
+        "organization": "Subic Bay Naval Air Station\nCivilian Personnel Office",
+        "location": "PHILIPPINES"
+    },
+    {
+        "system_name": "SUBICBAY-BUMED.NAVY.MIL",
+        "organization": "Subic Bay Naval Air Station\nNaval Hospital",
+        "location": "PHILIPPINES"
+    },
+    {
+        "system_name": "SUBNSD.NAVY.MIL",
+        "organization": "Subic Bay Naval Supply Depot",
+        "location": "PHILIPPINES"
+    },
+    {
+        "system_name": "APDS-II-OS088.AF.MIL",
+        "organization": "Lajes Field\n1605MSSQ/DPMD",
+        "location": "PORTUGAL"
+    },
+    {
+        "system_name": "LAJES-GW.AF.MIL",
+        "organization": "Lajes Field\n1936 Communications Squadron/LGU",
+        "location": "PORTUGAL"
+    },
+    {
+        "system_name": "BUCHAN-MPRJSS.ARMY.MIL",
+        "organization": "ASQNA-BUC\n399",
+        "location": "San Juan, PR"
+    },
+    {
+        "system_name": "NCPDS-PR.NAVY.MIL",
+        "organization": "Roosevelt Roads Naval Station\nCivilian Personnel Office",
+        "location": "San Juan, PR"
+    },
+    {
+        "system_name": "ADA.NUSC.NAVY.MIL",
+        "organization": "Naval Underwater Systems Center - NUSC\nCSTL Laboratory\nCode 35",
+        "location": "Newport, RI"
+    },
+    {
+        "system_name": "NCTS-NPT-RI.NAVY.MIL",
+        "organization": "Navy Data Automation Facility (NAVDAF)",
+        "location": "Newport, RI"
+    },
+    {
+        "system_name": "NEWPORT-BUMED.NAVY.MIL",
+        "organization": "Naval Hospital Management Information Systems Department\nNavy Data Automation Facility (NAVDAF)",
+        "location": "Newport, RI"
+    },
+    {
+        "system_name": "NL-GW.NUSC.NAVY.MIL",
+        "organization": "Naval Underwater Systems Center (NUSC)\nNetwork Architecture Division\nCode 73",
+        "location": "Newport, RI"
+    },
+    {
+        "system_name": "NUSC-ACS.NAVY.MIL",
+        "organization": "Naval Underwater Systems Center - NUSC\nNetwork Architecture Division\nCode 73",
+        "location": "Newport, RI"
+    },
+    {
+        "system_name": "SDS-NEWPORA.NAVY.MIL",
+        "organization": "Rhode Island Naval Air Station\nNavy Regional Data Automation Center (NARDAC)",
+        "location": "Newport, RI"
+    },
+    {
+        "system_name": "DHAHRAN-GW1.ARMY.MIL",
+        "organization": "Army Information Systems Command - USAISC\nDhahran",
+        "location": "SAUDI ARABIA"
+    },
+    {
+        "system_name": "ODS2-GW1.ARMY.MIL",
+        "organization": "Army Information Systems Command - USAISC\nRiyadh",
+        "location": "SAUDI ARABIA"
+    },
+    {
+        "system_name": "APDS-II-OS031.AF.MIL",
+        "organization": "Myrtle Beach Air Force Base",
+        "location": "Myrtle Beach, SC"
+    },
+    {
+        "system_name": "CHARLESTON-BUMED.NAVY.MIL",
+        "organization": "Charleston Naval Hospital",
+        "location": "Charleston, SC"
+    },
+    {
+        "system_name": "CHARLESTON.MT.DDN.MIL",
+        "organization": "Charleston Air Force Base\n1968th Communications Squadron/XP",
+        "location": "Charleston, SC"
+    },
+    {
+        "system_name": "CHRNSC.NAVY.MIL",
+        "organization": "Naval Supply Center",
+        "location": "Charleston, SC"
+    },
+    {
+        "system_name": "ED-MB.AF.MIL",
+        "organization": "Myrtle Beach Air Force Base\n354th Tactical Flight Wing (TFW/MAME)",
+        "location": "Myrtle Beach, SC"
+    },
+    {
+        "system_name": "FTJACKSN-GW1.ARMY.MIL",
+        "organization": "Commander Army Information Systems Command",
+        "location": "Fort Jackson, SC"
+    },
+    {
+        "system_name": "FTJACKSN-IGNET.ARMY.MIL",
+        "organization": "Fort Jackson\nUSATC",
+        "location": "Columbia, SC"
+    },
+    {
+        "system_name": "JACKSON-JACS5056.ARMY.MIL",
+        "organization": "Fort Jackson",
+        "location": "Columbia, SC"
+    },
+    {
+        "system_name": "MTF-SHAW.AF.MIL",
+        "organization": "Shaw Air Force Base",
+        "location": "Sumter, SC"
+    },
+    {
+        "system_name": "NETPMSA-CHARL4.NAVY.MIL",
+        "organization": "Charleston Naval Station\nSubmarine Training Facility (SUBTRAFAC)",
+        "location": "Charleston, SC"
+    },
+    {
+        "system_name": "SHAW-GW.AF.MIL",
+        "organization": "Shaw Air Force Base",
+        "location": "Sumter, SC"
+    },
+    {
+        "system_name": "ELLSWORTH-GW.AF.MIL",
+        "organization": "Ellsworth Air Force Base\n2148 Communication Squadron/XP",
+        "location": "Ellsworth, SD"
+    },
+    {
+        "system_name": "ROTA-BUMED.NAVY.MIL",
+        "organization": "Rota Naval Air Station\nNaval Hospital MIS Department",
+        "location": "SPAIN"
+    },
+    {
+        "system_name": "ROTA.MT.DDN.MIL",
+        "organization": "Rota Naval Air Station\nNaval Communications Station",
+        "location": "SPAIN"
+    },
+    {
+        "system_name": "TORREJON-AM3.AF.MIL",
+        "organization": "Torrejon Air Base",
+        "location": "SPAIN"
+    },
+    {
+        "system_name": "TORREJON-GW.AF.MIL",
+        "organization": "Torrejon Air Base\n2186 Communications Squadron",
+        "location": "SPAIN"
+    },
+    {
+        "system_name": "ZARAGOZA-GW.AF.MIL",
+        "organization": "Zaragoza Air Base\n1986th Communications Squadron/DLA",
+        "location": "SPAIN"
+    },
+    {
+        "system_name": "AEDC-VAX.AF.MIL",
+        "organization": "Arnold Engineering Development Center (AEDC)",
+        "location": "Arnold Air Force Base, TN"
+    },
+    {
+        "system_name": "CNET-MEMW0005.NAVY.MIL",
+        "organization": "Chief of Naval Technical Training",
+        "location": "Millington, TN"
+    },
+    {
+        "system_name": "MEMPHIS.MT.DDN.MIL",
+        "organization": "Navy Comptroller Systems Activity Detachment",
+        "location": "Memphis, TN"
+    },
+    {
+        "system_name": "NCPDS-OAKRIDGE1.NAVY.MIL",
+        "organization": "Maxima Corporation",
+        "location": "Oakridge, TN"
+    },
+    {
+        "system_name": "NCPDS-OAKRIDGE3.NAVY.MIL",
+        "organization": "Maxima Corporation",
+        "location": "Oakridge, TN"
+    },
+    {
+        "system_name": "NCPDS-OAKRIDGE5.NAVY.MIL",
+        "organization": "Maxima Corporation",
+        "location": "Oakridge, TN"
+    },
+    {
+        "system_name": "NCPDS-OAKRIDGE7.NAVY.MIL",
+        "organization": "Maxima Corporation",
+        "location": "Oakridge, TN"
+    },
+    {
+        "system_name": "NCPDS-OAKRIDGE9.NAVY.MIL",
+        "organization": "Maxima Corporation",
+        "location": "Oakridge, TN"
+    },
+    {
+        "system_name": "SDS-MEMA.NAVY.MIL",
+        "organization": "Memphis Naval Air Station\nNaval Education Training Program\nManagement Support Activity (NETPMSA) Detachment",
+        "location": "Millington, TN"
+    },
+    {
+        "system_name": "AFBS.AF.MIL",
+        "organization": "Kelly Air Force Base\nAir Force Broadcasting Service",
+        "location": "San Antonio, TX"
+    },
+    {
+        "system_name": "AFLC-SA-DMMIS1-SI01.AF.MIL",
+        "organization": "Kelly Air Force Base\nAir Force Logistics Command",
+        "location": "San Antonio, TX"
+    },
+    {
+        "system_name": "AFMPC3.AF.MIL",
+        "organization": "Randolph Air Force Base\nHeadquarters\nAir Force Military Personnel Center",
+        "location": "San Antonio, TX"
+    },
+    {
+        "system_name": "BERGSTROM-GW.AF.MIL",
+        "organization": "Bergstrom Air Force Base\n67 TRW/SIX",
+        "location": "Austin, TX"
+    },
+    {
+        "system_name": "BLISS-ATO.ARMY.MIL",
+        "organization": "Fort Bliss",
+        "location": "Fort Bliss, TX"
+    },
+    {
+        "system_name": "BLISS.MT.DDN.MIL",
+        "organization": "Fort Bliss\nArmy Information Systems Command (USAISC)",
+        "location": "Fort Bliss, TX"
+    },
+    {
+        "system_name": "BROOKS-GW.AF.MIL",
+        "organization": "Brooks Air Force Base\n2199th Communications Squadron (CS/XP)",
+        "location": "San Antonio, TX"
+    },
+    {
+        "system_name": "CAMNET-LACKLAND-R02.AF.MIL",
+        "organization": "Lackland Air Force Base\nAir Force Commissary Detachment South Central Region\n(AFCOMS)",
+        "location": "San Antonio, TX"
+    },
+    {
+        "system_name": "CHS-SA1.AF.MIL",
+        "organization": "Kelly Air Force Base\nSA-ALC/MMECS",
+        "location": "San Antonio, TX"
+    },
+    {
+        "system_name": "CORPUS-CHR-EMH1.ARMY.MIL",
+        "organization": "Corpus Christi Army Depot\nArmy Information Systems Command (USAISC)",
+        "location": "Corpus Christi, TX"
+    },
+    {
+        "system_name": "CORPUS-CHR-EMH3.ARMY.MIL",
+        "organization": "Corpus Christi Army Depot",
+        "location": "Corpus Christi, TX"
+    },
+    {
+        "system_name": "DISG-SA-GW.AF.MIL",
+        "organization": "Kelly Air Force Base\nSA ALC/SCST",
+        "location": "San Antonio, TX"
+    },
+    {
+        "system_name": "ED-SAN-ANT.AF.MIL",
+        "organization": "Kelly Air Force Base\nSan Antonio",
+        "location": "San Antonio, TX"
+    },
+    {
+        "system_name": "FIN.AF.MIL",
+        "organization": "General Dynamics",
+        "location": "Fort Worth, TX"
+    },
+    {
+        "system_name": "FTBLISS-AMEDD.ARMY.MIL",
+        "organization": "Fort Bliss\nWBAMC",
+        "location": "El Paso, TX"
+    },
+    {
+        "system_name": "FTBLISS-GW1.ARMY.MIL",
+        "organization": "Comandor Army Information Systems Command",
+        "location": "Fort Bliss, TX"
+    },
+    {
+        "system_name": "FTHOOD-AMEDD.ARMY.MIL",
+        "organization": "Fort Hood\nArmy MEDDAC",
+        "location": "Killeen, TX"
+    },
+    {
+        "system_name": "FTHOOD-GW1.ARMY.MIL",
+        "organization": "CDR 1114TH SIG BN",
+        "location": "FT Hood, TX"
+    },
+    {
+        "system_name": "FTSMHSTN-DARMS.ARMY.MIL",
+        "organization": "Fort Sam Houston",
+        "location": "San Antonio, TX"
+    },
+    {
+        "system_name": "FTSMHSTN-GW1.ARMY.MIL",
+        "organization": "Army Information Systems Command",
+        "location": "Fort Sam Houston, TX"
+    },
+    {
+        "system_name": "FTSMHSTN-IGNET.ARMY.MIL",
+        "organization": "Fort Sam Houston\nAcademy of Health SC",
+        "location": "San Antonio, TX"
+    },
+    {
+        "system_name": "GOODFELLOW-GW.AF.MIL",
+        "organization": "Goodfellow Air Force Base\nGTTC/SCP",
+        "location": "San Angelo, TX"
+    },
+    {
+        "system_name": "HOOD-SINGERLI.ARMY.MIL",
+        "organization": "Fort Hood\nHeadquarters\nIII Corps",
+        "location": "Killeen, TX"
+    },
+    {
+        "system_name": "KELLY-AM1.AF.MIL",
+        "organization": "Kelly Air Force Base\nHeadquarters\nAir Force Commissary Detachment (AFCOMS/SIMC)",
+        "location": "San Antonio, TX"
+    },
+    {
+        "system_name": "KELLY1-GW.AF.MIL",
+        "organization": "Kelly Air Force Base\n1923 Communications Group/LGUI",
+        "location": "San Antonio, TX"
+    },
+    {
+        "system_name": "LAA145.NAVY.MIL",
+        "organization": "CNATRA CODE N5T2",
+        "location": "TX"
+    },
+    {
+        "system_name": "LACKLAND-GW.AF.MIL",
+        "organization": "Lackland Air Force Base",
+        "location": "San Antonio, TX"
+    },
+    {
+        "system_name": "LAUGHLIN-GW.AF.MIL",
+        "organization": "Laughlin Air Force Base\n47th Tactical Flight Wing (TFW/SCP)",
+        "location": "Del Rio, TX"
+    },
+    {
+        "system_name": "PC3BK.PC3.AF.MIL",
+        "organization": "Randolph Air Force Base\nHeadquarters\nAir Force Military Personnel Center/DPMDFF1",
+        "location": "San Antonio, TX"
+    },
+    {
+        "system_name": "RANDOLPH-PIV-1.AF.MIL",
+        "organization": "Randolph Air Force Base\n1920 Information Systems Group/DO",
+        "location": "San Antonio, TX"
+    },
+    {
+        "system_name": "RANDOLPH2-GW.AF.MIL",
+        "organization": "Air Force Military Personnel Center/DPMDBC",
+        "location": "Randolph Air Force Base, TX"
+    },
+    {
+        "system_name": "RANDOLPH3.MT.DDN.MIL",
+        "organization": "Randolph Air Force Base\n12th Communications Squadron",
+        "location": "San Antonio, TX"
+    },
+    {
+        "system_name": "REESE-GW.AF.MIL",
+        "organization": "Reese Air Force Base\n1958 Communications Squadron/XP",
+        "location": "Lubbock, TX"
+    },
+    {
+        "system_name": "SADIS01.AF.MIL",
+        "organization": "Kelly Air Force Base\nSan Antonio-ALC/SCCI",
+        "location": "San Antonio, TX"
+    },
+    {
+        "system_name": "SAM-HOUSTON.MT.DDN.MIL",
+        "organization": "Fort Sam Houston\nArmy Information Systems Command (USAISC)",
+        "location": "San Antonio, TX"
+    },
+    {
+        "system_name": "SAN-ANTONIO-PIV-2.AF.MIL",
+        "organization": "2nd Communications Systems Group (CSG/SFH)\nSuite 101\n8961 Tesoro Drive",
+        "location": "San Antonio, TX"
+    },
+    {
+        "system_name": "SDS-CORPUSA.NAVY.MIL",
+        "organization": "Corpus Christi Naval Air Station\nNavy Data Automation Facility (NAVDAF)",
+        "location": "Corpus Christi, TX"
+    },
+    {
+        "system_name": "SNAG-SA.AF.MIL",
+        "organization": "Kelly Air Force Base",
+        "location": "San Antonio, TX"
+    },
+    {
+        "system_name": "TISG-6.AF.MIL",
+        "organization": "8961 Tesoro Drive",
+        "location": "San Antonio, TX"
+    },
+    {
+        "system_name": "ANKARA-AM3.AF.MIL",
+        "organization": "Air Force Commissary (AFCOMS)\nDetachment 63/FCS",
+        "location": "TURKEY"
+    },
+    {
+        "system_name": "ANKARA.MT.DDN.MIL",
+        "organization": "Ankara Air Station\n354B\nCommunications Center\nAnkara",
+        "location": "TURKEY"
+    },
+    {
+        "system_name": "INCIRLIK-GW.AF.MIL",
+        "organization": "Incirlik Air Base",
+        "location": "TURKEY"
+    },
+    {
+        "system_name": "IZMIR-AM1.AF.MIL",
+        "organization": "Air Force Commissary Detachment 65/FCS",
+        "location": "TURKEY"
+    },
+    {
+        "system_name": "IZMIR.MT.DDN.MIL",
+        "organization": "Ankara Air Base\nDetachment 7",
+        "location": "TURKEY"
+    },
+    {
+        "system_name": "ALCONBRY-PIV-2.AF.MIL",
+        "organization": "Alconbury Royal Air Force Base\n2166th Communications Squadron (CS/DOAS)",
+        "location": "UNITED KINGDOM"
+    },
+    {
+        "system_name": "BENTWATERS-GW.AF.MIL",
+        "organization": "Bentwaters Royal Air Force\n2164 Communications Squadron (CS/LGN)",
+        "location": "UNITED KINGDOM"
+    },
+    {
+        "system_name": "BENTWATERS.MT.DDN.MIL",
+        "organization": "Bentwaters Royal Air Force Base\n2164th Communications Squadron",
+        "location": "UNITED KINGDOM"
+    },
+    {
+        "system_name": "BURTONWOOD-EMH1.ARMY.MIL",
+        "organization": "CDOIM\nRAF Burtonwood\nArmy Depot",
+        "location": "UNITED KINGDOM"
+    },
+    {
+        "system_name": "CHICKSANDS-GW.AF.MIL",
+        "organization": "Royal Air Force Chicksands\n7274 ABG/SCX\nChicksands\nAPO New York 09193-5000",
+        "location": "UNITED KINGDOM"
+    },
+    {
+        "system_name": "FAIRFORD-AM1.AF.MIL",
+        "organization": "Fairford Royal Air Force\nAir Force Communications (AFCOMS)\nDetachment OL UD/FCS",
+        "location": "UNITED KINGDOM"
+    },
+    {
+        "system_name": "LAK-EDS.AF.MIL",
+        "organization": "Lakenheath Royal Air Force Base\n48th Tactical Flight Wing (TFW/LGCM)",
+        "location": "UNITED KINGDOM"
+    },
+    {
+        "system_name": "LAKENHEATH.MT.DDN.MIL",
+        "organization": "Lakenheath Royal Air Force Base\n1979 Communications Squadron/DOAS",
+        "location": "UNITED KINGDOM"
+    },
+    {
+        "system_name": "LONDON.MMT.DDN.MIL",
+        "organization": "NAVCOMMU",
+        "location": "UNITED KINGDOM"
+    },
+    {
+        "system_name": "MILDENHALL-GW.AF.MIL",
+        "organization": "Mildenhall Royal Air Force\n513 ACCW/SCLU",
+        "location": "UNITED KINGDOM"
+    },
+    {
+        "system_name": "MOLSWRTH-PIV.AF.MIL",
+        "organization": "Molesworth Royal Air Force Base",
+        "location": "UNITED KINGDOM"
+    },
+    {
+        "system_name": "MTF-UPPERHEYFORD.AF.MIL",
+        "organization": "Upper Heyford Royal Air Force Base\nAir Force Hospital/SGM",
+        "location": "UNITED KINGDOM"
+    },
+    {
+        "system_name": "UPP-EDS.AF.MIL",
+        "organization": "Upper Heyford Royal Air Force Base\n20th Tactical Flight Wing (TFW/LGSMN)",
+        "location": "UNITED KINGDOM"
+    },
+    {
+        "system_name": "AFLC-OO-AISG1.AF.MIL",
+        "organization": "Hill Air Force Base\nOO-ALC/SCSP",
+        "location": "Ogden, UT"
+    },
+    {
+        "system_name": "AFLC-OO-DMMIS1-MA01.AF.MIL",
+        "organization": "Hill Air Force Base",
+        "location": "Ogden, UT"
+    },
+    {
+        "system_name": "DMADC.DMA.MIL",
+        "organization": "DMA Distribution Center\nDefense Mapping Agency (DMA)",
+        "location": "Clearfield, UT"
+    },
+    {
+        "system_name": "DSACS05.AF.MIL",
+        "organization": "Hill Air Force Base\nOgden Air Logistics Center",
+        "location": "Ogden, UT"
+    },
+    {
+        "system_name": "DUGWAY-EMH1.ARMY.MIL",
+        "organization": "USAISC-DUGWAY ASQNC-TDG",
+        "location": "UT"
+    },
+    {
+        "system_name": "DUGWAY-GW1.ARMY.MIL",
+        "organization": "Dugway Proving Ground\nU.S. Army",
+        "location": "Dugway, UT"
+    },
+    {
+        "system_name": "DUGWAY.MT.DDN.MIL",
+        "organization": "Dugway Proving Ground",
+        "location": "Dugway, UT"
+    },
+    {
+        "system_name": "FTDOUGLS-JACS6347.ARMY.MIL",
+        "organization": "Fort Douglas",
+        "location": "Fort Douglas, UT"
+    },
+    {
+        "system_name": "HILL-GW.AF.MIL",
+        "organization": "Hill Air Force Base\n1881rst Communications Squadron (CS/XPC)",
+        "location": "Ogden, UT"
+    },
+    {
+        "system_name": "HILL.MT.DDN.MIL",
+        "organization": "Hill Air Force Base\n1881st Communications Squadron/XPC",
+        "location": "Ogden, UT"
+    },
+    {
+        "system_name": "OGDEN-DAISY.DLA.MIL",
+        "organization": "Defense Reutilization and Marketing Service (DRMS)",
+        "location": "Ogden, UT"
+    },
+    {
+        "system_name": "OO-ALC-SC-GATEWAY1.AF.MIL",
+        "organization": "Hill Air Force Base",
+        "location": "Ogden, UT"
+    },
+    {
+        "system_name": "OODIS01.AF.MIL",
+        "organization": "Hill Air Force Base",
+        "location": "Ogden, UT"
+    },
+    {
+        "system_name": "SNAG-OO.AF.MIL",
+        "organization": "Hill Air Force Base",
+        "location": "Ogden, UT"
+    },
+    {
+        "system_name": "TOOELE-GW1.ARMY.MIL",
+        "organization": "USAISC-TOOELE\nASQNC-DT-RP",
+        "location": "TOOELE, UT"
+    },
+    {
+        "system_name": "VI-NGNET.ARMY.MIL",
+        "organization": "USPFO-VI",
+        "location": "Virgin Islands of the United States"
+    },
+    {
+        "system_name": "ALEX-DSACS1.ARMY.MIL",
+        "organization": "Naval Air System Command\nJefferson Plaza 1",
+        "location": "Arlington, VA"
+    },
+    {
+        "system_name": "ALEX-DSACS3.ARMY.MIL",
+        "organization": "Commandant Marine Corps\nClarendon Square",
+        "location": "Arlington, VA"
+    },
+    {
+        "system_name": "ALEX-GW1.ARMY.MIL",
+        "organization": "DIRUSAISC\nASQNC-D-SE",
+        "location": "VA"
+    },
+    {
+        "system_name": "ALEXANDR-ASATMS.ARMY.MIL",
+        "organization": "Alexandria Army Matriel Command\nSATFA",
+        "location": "Alexandria, VA"
+    },
+    {
+        "system_name": "ALEXANDR-GW.ARMY.MIL",
+        "organization": "National Guard Bureau",
+        "location": "Alexandria, VA"
+    },
+    {
+        "system_name": "ALEXANDRIA-EMH2.ARMY.MIL",
+        "organization": "Army Research Institute",
+        "location": "Alexandria, VA"
+    },
+    {
+        "system_name": "ALEXANDRIA-EMH5.ARMY.MIL",
+        "organization": "Army Materiel Command",
+        "location": "Alexandria, VA"
+    },
+    {
+        "system_name": "ALEXANDRIA3.MT.DDN.MIL",
+        "organization": "Alexandria Military Personnel Center",
+        "location": "Alexandria, VA"
+    },
+    {
+        "system_name": "ASNB-DPCB1.ARMY.MIL",
+        "organization": "Computer Systems Command",
+        "location": "Falls Church, VA"
+    },
+    {
+        "system_name": "BEAST.ARMY.MIL",
+        "organization": "DCEC",
+        "location": "Reston, VA"
+    },
+    {
+        "system_name": "BELVOIR-GW.ARMY.MIL",
+        "organization": "Research and Development Center\nR&D Center Field Office\nASQNK-BVS",
+        "location": "Fort Belvoir, VA"
+    },
+    {
+        "system_name": "BELVOIR-GW3.ARMY.MIL",
+        "organization": "CDR Belvoir Research & Development",
+        "location": "Ft. Belvoir, VA"
+    },
+    {
+        "system_name": "BELVOIR-IP-GW.DDN.MIL",
+        "organization": "Fort Belvoir\nArmy Information Systems Command (USAISC)",
+        "location": "Fairfax, VA"
+    },
+    {
+        "system_name": "BELVOIR.MT.DDN.MIL",
+        "organization": "Fort Belvoir\nArmy Information Systems Command (USAISC)",
+        "location": "Fairfax, VA"
+    },
+    {
+        "system_name": "CAMB18-T20.DISA.MIL",
+        "organization": "DISA Headquarters\n8th & S. Courthouse Rd.",
+        "location": "Arlington, VA"
+    },
+    {
+        "system_name": "CHANTILLY1.MT.DDN.MIL",
+        "organization": "Government Systems\nInc.\n14200 Park Meadow Dr.\nSuite 200",
+        "location": "Chantilly, VA"
+    },
+    {
+        "system_name": "CMMC-BBN.DDN.MIL",
+        "organization": "Defense Communication Agengy",
+        "location": "Arlington, VA"
+    },
+    {
+        "system_name": "CMMC-IPR.DDN.MIL",
+        "organization": "DCA HEADQUARTERS",
+        "location": "Arlington, VA"
+    },
+    {
+        "system_name": "CNET-NORW0016.NAVY.MIL",
+        "organization": "Norfolk Naval Base\nNETPMSA Unit",
+        "location": "Virginia Beach, VA"
+    },
+    {
+        "system_name": "COMSTATE-TEST.DDN.MIL",
+        "organization": "Defense Information Systems Agency",
+        "location": "Arlington, VA"
+    },
+    {
+        "system_name": "DASCG1.DLA.MIL",
+        "organization": "DLA/DASC",
+        "location": "VA"
+    },
+    {
+        "system_name": "DCEC30-T20.DISA.MIL",
+        "organization": "DCEC",
+        "location": "VA"
+    },
+    {
+        "system_name": "DDN-CONUS.DDN.MIL",
+        "organization": "DISA HQs\n701 S. Courthouse Road",
+        "location": "Arlington, VA"
+    },
+    {
+        "system_name": "DDNGW1-GW.NSWC.NAVY.MIL",
+        "organization": "Naval Surface Warfare Center",
+        "location": "Dahlgren, VA"
+    },
+    {
+        "system_name": "DDNGW2-GW.NSWC.NAVY.MIL",
+        "organization": "Naval Surface Warfare Center",
+        "location": "Dahlgren, VA"
+    },
+    {
+        "system_name": "DLA-COLAN.DLA.MIL",
+        "organization": "Defense Contract Mamagement Region Baltimore\nSuite 110\n2500 Alameda Avenue",
+        "location": "Norfolk, VA"
+    },
+    {
+        "system_name": "DTIC-GW.DTIC.DLA.MIL",
+        "organization": "Defense Technical Information Center\nSpecial Projects Office Center\n(DTIC-SPO)\n1800 North Beauregard Street",
+        "location": "Alexandria, VA"
+    },
+    {
+        "system_name": "EUSTIS-TCACCIS.ARMY.MIL",
+        "organization": "Fort Eustis\nTransportation Officer",
+        "location": "Fort Eustis, VA"
+    },
+    {
+        "system_name": "FALLSCHRCH-HIRDS.OSD.MIL",
+        "organization": "Defense Medical Systems Support Center\nSuite 510\n5109 Leesburg Pike",
+        "location": "Falls Church, VA"
+    },
+    {
+        "system_name": "FLSCHRCH-AMEDD.ARMY.MIL",
+        "organization": "Office of the Surgeon General",
+        "location": "Falls Church, VA"
+    },
+    {
+        "system_name": "FLSCHRCH-GW1.ARMY.MIL",
+        "organization": "Army Information Systems Command",
+        "location": "Falls Church, VA"
+    },
+    {
+        "system_name": "FTBELVOIR-IGNET.ARMY.MIL",
+        "organization": "USACE\nFort Belvoir",
+        "location": "Alexandria, VA"
+    },
+    {
+        "system_name": "FTEUSTIS-AMEDD.ARMY.MIL",
+        "organization": "Fort Eustis\nArmy MEDDAC",
+        "location": "Fort Eustis, VA"
+    },
+    {
+        "system_name": "FTEUSTIS-GW1.ARMY.MIL",
+        "organization": "Comander Army Information Systems Command",
+        "location": "Fort Eustis, VA"
+    },
+    {
+        "system_name": "FTLEE-AMEDD.ARMY.MIL",
+        "organization": "Fort Lee\nArmy MEDDAC",
+        "location": "Petersburg, VA"
+    },
+    {
+        "system_name": "FTLEE-GW1.ARMY.MIL",
+        "organization": "Fort Lee\nAISSDC",
+        "location": "Petersburg, VA"
+    },
+    {
+        "system_name": "FTMONROE-GW1.ARMY.MIL",
+        "organization": "Army Information Systems Command",
+        "location": "Fort Monroe, VA"
+    },
+    {
+        "system_name": "GAINESVLE-DLACOLAN.DLA.MIL",
+        "organization": "Defense Contract Administration Services (DCASMA)\nBaltimore",
+        "location": "Gainesville, VA"
+    },
+    {
+        "system_name": "GSI-GW1.DDN.MIL",
+        "organization": "Government Systems\nInc.\n14200 Park Meadow Drive\nSuite 200",
+        "location": "Chantilly, VA"
+    },
+    {
+        "system_name": "GW.DFSC.DLA.MIL",
+        "organization": "Defense Fuel Supply Center (DFSC)",
+        "location": "Alexandria, VA"
+    },
+    {
+        "system_name": "GW.HQ.DLA.MIL",
+        "organization": "Defense Logistics Agency (DLA)\nAdministrative Supply Center",
+        "location": "Alexandria, VA"
+    },
+    {
+        "system_name": "HOFFMAN-MIL80X.ARMY.MIL",
+        "organization": "PERISNSCOM",
+        "location": "Alexandria, VA"
+    },
+    {
+        "system_name": "LANGLEY-AM1.AF.MIL",
+        "organization": "Headquarters\nTAC/DERG",
+        "location": "VA"
+    },
+    {
+        "system_name": "LANGLEY.MT.DDN.MIL",
+        "organization": "Langley Air Force Base\nTAC-IS-COMPUTER Center",
+        "location": "Hampton, VA"
+    },
+    {
+        "system_name": "LEE-ASATMS.ARMY.MIL",
+        "organization": "Fort Lee\nArmy Logistics Management Center",
+        "location": "Petersburg, VA"
+    },
+    {
+        "system_name": "LEE.MT.DDN.MIL",
+        "organization": "Fort Lee\nArmy Information Systems Command (USAISC)",
+        "location": "Fort Lee, VA"
+    },
+    {
+        "system_name": "MELPAR-EMH1.ARMY.MIL",
+        "organization": "Computer Systems Command Office Automation",
+        "location": "Alexandria, VA"
+    },
+    {
+        "system_name": "MOCCE.NAVY.MIL",
+        "organization": "Norfolk Naval Air Station\nMeasure OperationAL Control Center East",
+        "location": "Norfolk, VA"
+    },
+    {
+        "system_name": "MONSATFA-EMH2.ARMY.MIL",
+        "organization": "SATFA",
+        "location": "Hampton, VA"
+    },
+    {
+        "system_name": "MTMC-GW1.ARMY.MIL",
+        "organization": "Defense Information Systems Agency (DISA)\nCode B743",
+        "location": "Reston, VA"
+    },
+    {
+        "system_name": "NCPDS-ARLINGTON.NAVY.MIL",
+        "organization": "Naval Civilian Personnel Data System",
+        "location": "Arlington, VA"
+    },
+    {
+        "system_name": "NETPMSA-NORFOLK1.DISA.MIL",
+        "organization": "Norfolk Naval Station\nCommander in Chief - Atlantic Fleet",
+        "location": "Norfolk, VA"
+    },
+    {
+        "system_name": "NORFOLK.MT.DDN.MIL",
+        "organization": "Norfolk Naval Base\nNaval Regional Data Automation Center (NARDAC)",
+        "location": "Norfolk, VA"
+    },
+    {
+        "system_name": "NORNDC.NAVY.MIL",
+        "organization": "Norfolk Naval Air Station\nNavy Regional Data Automation Center (NARDAC)",
+        "location": "Norfolk, VA"
+    },
+    {
+        "system_name": "NTSC-LANT-GW.NAVY.MIL",
+        "organization": "Naval Training Equipment Center\nRegional Representatives\nAtlantic\n431 Crawford Street",
+        "location": "Portsmouth, VA"
+    },
+    {
+        "system_name": "OAHOST.DISA.MIL",
+        "organization": "Defense Communicatons Agency (DCA)\n8th and South Courthouse Road",
+        "location": "Arlinton, VA"
+    },
+    {
+        "system_name": "OCNR-HQ.NAVY.MIL",
+        "organization": "Office of Naval Research",
+        "location": "Arlington, VA"
+    },
+    {
+        "system_name": "PENTAGON2.MT.DDN.MIL",
+        "organization": "The Pentagon\nBD972",
+        "location": "Arlington, VA"
+    },
+    {
+        "system_name": "PORTSIS.NAVY.MIL",
+        "organization": "Navy Elex Systems Engineering Center",
+        "location": "Portsmouth, VA"
+    },
+    {
+        "system_name": "PROTOCOM.MANASSAS.DLA.MIL",
+        "organization": "Defense Plant Representative Operation IBM",
+        "location": "Manassas, VA"
+    },
+    {
+        "system_name": "RADFORD-EMH1.ARMY.MIL",
+        "organization": "CDR\nUSARDAISA\nASQND-OT",
+        "location": "Radford, VA"
+    },
+    {
+        "system_name": "RESTAN1.NAVY.MIL",
+        "organization": "Tandem Computers Inc.",
+        "location": "Reston, VA"
+    },
+    {
+        "system_name": "RESTON-DCEC-MB.DDN.MIL",
+        "organization": "Defense Information Systems Agency (DISA)\nDefense Communications Engineering Center (DCEC)\nCode R830C",
+        "location": "Reston, VA"
+    },
+    {
+        "system_name": "RESTON.MMT.DDN.MIL",
+        "organization": "DCA DCEC CODE 10R",
+        "location": "RESTON, VA"
+    },
+    {
+        "system_name": "SDS-NORFLKA.NAVY.MIL",
+        "organization": "Norfolk Naval Air Station\nNavy Regional Data Automation Center (NARDAC)",
+        "location": "Norfolk, VA"
+    },
+    {
+        "system_name": "SEAHUB.NAVSEA.NAVY.MIL",
+        "organization": "Naval Sea Systems Command\nNational Center 2",
+        "location": "Arlington, VA"
+    },
+    {
+        "system_name": "SPAWAR.NAVY.MIL",
+        "organization": "Space and Naval Warfare Systems Command (SPAWAR)",
+        "location": "Crystal City, VA"
+    },
+    {
+        "system_name": "SPSUP-GW.NAVY.MIL",
+        "organization": "Unified Industries\nIncorporated",
+        "location": "Springfield, VA"
+    },
+    {
+        "system_name": "SUN1.DDN.MIL",
+        "organization": "GOVERNMENT SYSTEMS\nINC.",
+        "location": "Chantilly, VA"
+    },
+    {
+        "system_name": "UIBM.DISA.MIL",
+        "organization": "Defense Information Systems Agency (DISA/IMO)",
+        "location": "Reston, VA"
+    },
+    {
+        "system_name": "UVAX5.DISA.MIL",
+        "organization": "Defense Information Systems Agency (DISA)\nCode: JPSS\n1860 Wiehle Avenue",
+        "location": "Reston, VA"
+    },
+    {
+        "system_name": "VINTHILL-GW1.ARMY.MIL",
+        "organization": "USAISC VINT HILL",
+        "location": "Vint Hill Farms Station, VA"
+    },
+    {
+        "system_name": "WIS-CMS.DISA.MIL",
+        "organization": "Defense Information Systems Agency (DISA/JDSSC) (C720)\nDefense Communications Agency\nOperations Support Facility\n45335 Vintage Park Plaza",
+        "location": "Sterling, VA"
+    },
+    {
+        "system_name": "BNGTRF.NAVY.MIL",
+        "organization": "Bangor Naval Submarine Base\nTrident Refit Facility",
+        "location": "Bremerton, WA"
+    },
+    {
+        "system_name": "CNET-BANW0002.NAVY.MIL",
+        "organization": "Naval Education and Training Program Management Support Activity\n(NETPMSA) - Bangor",
+        "location": "Bremerton, WA"
+    },
+    {
+        "system_name": "FAIRCHILD.MT.DDN.MIL",
+        "organization": "Fairchild Air Force Base\n2039 Information Systems Squadron/DO",
+        "location": "Spokane, WA"
+    },
+    {
+        "system_name": "FTLEWIS-GW1.ARMY.MIL",
+        "organization": "1115th Signal Battalion",
+        "location": "Fort Lewis, WA"
+    },
+    {
+        "system_name": "FTLEWIS-TCACCIS.ARMY.MIL",
+        "organization": "Fort Lewis",
+        "location": "Tilicum, WA"
+    },
+    {
+        "system_name": "HCPUG1-GW.NAVY.MIL",
+        "organization": "NAVCOMSTA\nPuget Sound NSB",
+        "location": "Silverdale, WA"
+    },
+    {
+        "system_name": "KEYPORT.MT.DDN.MIL",
+        "organization": "Naval Undersea Warfare Engineering Station (NUWES)\nCode 033",
+        "location": "Keyport, WA"
+    },
+    {
+        "system_name": "LEWIS-GW1.ARMY.MIL",
+        "organization": "Fort Lewis\nATCCS Experimentation Site\nFort Lewis\nCommander\nAES",
+        "location": "Tacoma, WA"
+    },
+    {
+        "system_name": "LEWIS-SINGERLI.ARMY.MIL",
+        "organization": "Fort Lewis\n1rst Company",
+        "location": "Tacoma, WA"
+    },
+    {
+        "system_name": "LPA017.NAVY.MIL",
+        "organization": "NAVCALAB",
+        "location": "FPO Seattle, WA"
+    },
+    {
+        "system_name": "MCCHORD.MT.DDN.MIL",
+        "organization": "McChord Air Force Base\n1905 Communications Squadron/XP",
+        "location": "Tacoma, WA"
+    },
+    {
+        "system_name": "PERACV.NAVY.MIL",
+        "organization": "Naval Sea Systems Command Detachment (PERA CV)",
+        "location": "Bremerton, WA"
+    },
+    {
+        "system_name": "PGTNSC.NAVY.MIL",
+        "organization": "Puget Sound Naval Supply Center",
+        "location": "Bremerton, WA"
+    },
+    {
+        "system_name": "PUGET-SOUND.MT.DDN.MIL",
+        "organization": "Bangor Naval Submarine Base\nTrident Refit Facility",
+        "location": "Bangor, WA"
+    },
+    {
+        "system_name": "RPA09.NAVY.MIL",
+        "organization": "NAVCALAB",
+        "location": "FPO Seattle, WA"
+    },
+    {
+        "system_name": "SEATTLE-BUMED.NAVY.MIL",
+        "organization": "Naval Station\nNaval Medical Clinic",
+        "location": "Seattle, WA"
+    },
+    {
+        "system_name": "WHINAS.NAVY.MIL",
+        "organization": "Whidbey Island Naval Air Station",
+        "location": "Oakharbor, WA"
+    },
+    {
+        "system_name": "FTMCCOY-JACS5409.ARMY.MIL",
+        "organization": "Fort McCoy\nHeadquarters",
+        "location": "Fort McCoy, WI"
+    },
+    {
+        "system_name": "MCCOY-ASBN.ARMY.MIL",
+        "organization": "Army Information Systems Command - USAISC",
+        "location": "Sparta, WI"
+    },
+    {
+        "system_name": "CHEYENNE-GW.ARMY.MIL",
+        "organization": "USPFO-WY",
+        "location": "Cheyenne, WY"
+    },
+    {
+        "system_name": "CHEYENNE-GW.ARMY.MIL",
+        "organization": "USPFO-WY",
+        "location": "Cheyenne, WY"
+    },
+    {
+        "system_name": "FEWARREN-GW.AF.MIL",
+        "organization": "F.E. Warren Air Force Base\n2149 Communications Squadron/LGPI",
+        "location": "Cheyenne, WY"
+    }
+]
